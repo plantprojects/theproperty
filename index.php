@@ -62,15 +62,16 @@
 	</section>
 
 	<section id="press-release">
+
+		<ul id="nav">
+			<li class="active"><a href="#current">Current</a></li>
+			<li><a href="#past">Past</a></li>
+			<!--<li><a href="#future">Future</a></li>-->
+		</ul>
+
 		<div class="centered page-3">
 		
 			<div class="small-logo"></div>
-		
-			<ul id="nav">
-				<li class="active"><a href="#current">Current</a></li>
-				<li><a href="#past">Past</a></li>
-				<!--<li><a href="#future">Future</a></li>-->
-			</ul>
 			
 			<ul id="content">
 				<li id="current" class="active">
@@ -89,19 +90,17 @@
 				<li id="past">
 					<ul class="show-list">
 						<li>
-							<div class="date">October, 2014</div>
 							<a href="4-painters.php">
-								<h2>4 Painters</h2>	
-														
+								<h2>4 Painters</h2>
+								<div class="date">October, 2014</div>
 								<p class="show-body"><i>The Property</i> is pleased to announce its second exhibition: <i>Four Painters</i>, including the work of Daniel Ingroff, Karla Wozniak, Adam Novak, and Katie&nbsp;Herzog.</p>
 							</a>
 						</li>
 
 						<li>
-							<div class="date">August, 2014</div>
 							<a class="show-index" href="open-house.php">
 								<h2>Open House</h2>
-							
+								<div class="date">August, 2014</div>
 								<p class="show-body">The Property's inaugural exhibition 'Open House' featured the work of Chris Oliveria, Liz Walsh, Jon-Paul Villegas, Sarah Bostwick, Amy Sarkisian, Karen Lofgren, Bettina Hubby, Dave Hughes and Evan Jourdan.</p>
 							</a>
 						</li>
@@ -120,6 +119,14 @@
 	<script src="lib/jquery.easing.1.3.js"></script>
 	<script src="js/functions.js"></script>
 	<!--<script src="lib/modernizr.custom.js"></script>-->
+
+<script>
+	setTimeout(function() {
+		if (location.hash) {
+			window.scrollTo(0, 0);
+		}
+	}, 1);
+</script>
 
 </body>
 </html>

@@ -242,18 +242,24 @@ video { width: 100%; height: auto;}
 }
 
 #nav {
-	position: absolute;
-	top: 0;
-	left: -60px;
 	list-style: none;
-	margin: 0;
+	margin: 20px 0;
 	padding: 0;
-	top: 125px;
-	left: -80px;
-	text-align: right;
+	position: absolute;
+	margin: 0;
+	top: 15px;
+	right: 15px;
+}
+#nav li {
+	float: left;
+	margin-right: 20px;
+	font-size: 12px;
+}
+#nav li a {
+	text-decoration: none;
+	padding: 2px 5px;
 }
 
-#nav li.active a:hover,
 #nav li.active a {
 	color: #f05424;
 }
@@ -273,11 +279,31 @@ video { width: 100%; height: auto;}
 	list-style: none;
 	margin: 0;
 	padding: 0;
+	float: left;
+	margin-top: 180px;
 }
 
 .show-list {
 	list-style: none;
 	padding: 0;
+}
+.show-list li {
+	position: relative;
+	margin-bottom: 80px;
+}
+
+.show-list li h2 {
+	text-transform: uppercase;
+}
+.date {
+	position: absolute;
+	left: -130px;
+	top: 0;
+	text-transform: uppercase;
+	font-size: 12px;
+	color: gray;
+	width: 100px;
+	text-align: right;
 }
 
 .small-logo {
@@ -288,6 +314,10 @@ video { width: 100%; height: auto;}
 	cursor: pointer;
 	margin: 0 auto;
 	padding-bottom: 15px;
+	position: absolute;
+	top: 50px;
+	left: 0;
+	right: 0;
 }
 .computer .small-logo:hover {
 	background: url(../images/property_logo_sm_hover.jpg) no-repeat top center;
@@ -304,6 +334,15 @@ video { width: 100%; height: auto;}
 	text-align: left;
 	line-height: 1.5em;
 	cursor: default;
+	overflow: visible;
+	margin: 0 auto;
+}
+#press-release .show-list a {
+	text-decoration: none;
+}
+#press-release .show-list a:hover .date,
+#press-release .show-list a:hover {
+	color: #a9dde8;
 }
 
 
@@ -323,16 +362,8 @@ video { width: 100%; height: auto;}
 	position: relative;
 }
 .caption {
-	position: absolute;
-	left: 10px;
-	bottom: 10px;
+	margin: 5px 0 40px 10px;
 	font-size: .8em;
-}
-#press-release .show-list a {
-	text-decoration: none;
-}
-#press-release .show-list a:hover {
-	color: #a9dde8;
 }
 
 /*
@@ -367,18 +398,6 @@ video { width: 100%; height: auto;}
 		width: 400px;
 		margin: 15px auto;
 	}
-	#nav {
-		position: static;
-		text-align: left;
-		width: 100%;
-		margin: 20px 0;
-		float: left;
-	}
-	#nav li {
-		float: left;
-		margin-right: 20px;
-	}
-
 }
 
 @media (max-width: 500px) {
