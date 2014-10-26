@@ -1,0 +1,110 @@
+/*
+ * FOUR PAINTERS
+ */
+#four-painters #poster {
+	position: absolute;
+	top:0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	z-index: 2;
+	background: url(../images/fourpainters/wide.jpg) no-repeat center center;
+	background-size: cover;
+}
+#four-painters h1 {
+	position: absolute;
+	background: url('../images/fourpainters/4painters.png') no-repeat;
+	margin: 0 auto;
+	width: 300px;
+	background-size: contain; /*500px 260px;*/
+	display: block;
+	height: 260px;
+	text-indent: -30000px;
+	z-index: 2;
+}
+
+#four-painters h1.pos-1 {
+	top: 1%;
+	left: 40%;
+}
+#four-painters h1.pos-2 {
+	top: 30%;
+	left: 60%;
+}
+#four-painters h1.pos-3 {
+	top: 50%;
+	left: 50%;
+}
+#four-painters h1.pos-4 {
+	top: 70%;
+	left: 25%;
+}
+#four-painters h1.pos-5 {
+	top: 50%;
+	left: 30%;
+}
+
+#four-painters .modal {
+	position: absolute;
+	bottom: 10px;
+	left: 12px;
+	top: initial;
+	right: initial;
+	width: 350px;
+}
+#four-painters .names {
+	position: absolute;
+	left: 35%;
+	width: 30%;
+	top: 60%;
+	list-style: none;
+	color: #044e48;
+	margin: 0;
+	padding: 0;
+	font-size: 1.5em;
+	font-family: Helvetica, 'sans-serif';
+}
+#four-painters .modal p	{
+	float: left;
+	margin: 0 30px 0 0;
+}
+
+@media (max-width: 900px) {
+	#four-painters .names {
+		font-size: 1.2em;
+		left: 25%;
+		width: 50%;
+	}
+	#four-painters h1 {
+		width: 200px;
+	}
+}
+@media (max-width: 600px) {
+	#four-painters .names {
+		font-size: 1.1em;
+		left: 20%;
+		width: 50%;
+	}
+	#four-painters .modal {
+		font-size: .8em;
+	}
+	#four-painters h1 {
+		width: 180px;
+	}
+}
+@media (max-height: 500px) {
+	#four-painters .names {
+		font-size: 1em;
+	}
+	#four-painters h1 {
+		width: 120px;
+	}
+	#four-painters .modal {
+		font-size: .6em;
+	}
+	#four-painters .modal p	{
+		margin: 0 15px 0 0;
+	}
+
+}

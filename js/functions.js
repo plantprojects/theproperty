@@ -9,8 +9,8 @@ var animation_complete = false,
 	marginLeft,
 	logoSrc = 'images/property_logo.jpg',
 	logoSrcHover = 'images/property_logo_hover.jpg',
-	vidWidth = 1280,
-	vidHeight = 720,
+	vidWidth = 1900,
+	vidHeight = 1140,
 	vidHeightRatio = vidHeight/vidWidth,
 	vidWidthRatio = vidWidth/vidHeight;
 
@@ -18,21 +18,21 @@ var animation_complete = false,
 if ( !isMobile )
 {
 	// Pause video when leave focus of web page
-	$(window).blur(function()
+	/*$(window).blur(function()
 	{
 		if ($('#fireworks').length === 1 )
 		{
 		$('#fireworks').get(0).pause();
 		}
-	});
+	});*/
 	// Play video when return focus
-	$(window).focus(function()
+	/*$(window).focus(function()
 	{
 		if ($('#fireworks').length === 1 )
 		{
 		$('#fireworks').get(0).play();
 		}
-	});
+	});*/
 
 	//Hove effect on logo
 
@@ -48,46 +48,39 @@ if ( !isMobile )
 
 }
 
-// VIDEO FIT WINDOW
+// Background image FIT WINDOW
 function videoResize()
 {
 	winWidth = $(window).width();
 	winHeight = $(window).height();
 
-	if ( winHeight > winWidth * vidHeightRatio )
-	{
-	// center the video
-	$('#fireworks').height(winHeight)
-		.width( Math.round(winHeight * vidWidthRatio) )
-		.css({
-			'margin-left': - ($('#fireworks').width() - winWidth) / 2,
-			'margin-top': 0
-		});
-
-	} else
-	{
-		$('#fireworks').height('auto').width('100%').css('margin-left', 0);
-
-		// center video vertically
-		if ( $('#fireworks').height() > winHeight)
-		{
-		$('#fireworks').css('margin-top', - ($('#fireworks').height() - winHeight) /2 );
-		} else
-		{
-			$('#fireworks').css('margin-top', 0 );
-		}
-	}
-
-	// center the text
-	$('.centered.page-2').css('margin-top', (winHeight - $('.centered.page-2').height()) / 2);
-
 	if ( winHeight > $('.centered.page-3').height() )
 	{
-		console.log('hi');
-
 		$('.centered.page-3').css('margin-top', (winHeight - $('.centered.page-3').height() - 100) / 2);
 	}
 }
+
+// CENTER NAMES
+function namesCenter()
+{
+	var newTop = ($(window).height() - $('.names').height()) / 1.4;
+	$('.names').css('top', newTop );
+}
+
+// MOVE H1
+var about_slide = $('#current-show h1'),
+    counter = 1;
+
+setInterval(function() {
+  about_slide.removeClass();
+  about_slide.addClass('pos-'+counter);
+  
+  if (counter === 5) {
+	counter = 1;
+  } else {
+	counter++;
+  }
+}, 500);
 
 // CENTER LOGO
 function logoCenter()
@@ -141,37 +134,22 @@ function logoResize()
 
 $(window).load(function()
 {
-	if (isMobile) {
-		//$('.start').addClass('bounce')
-	}
 
 	$('body').width($(window).width());
 
 	$('.start').click(function()
 	{
 		$('#home').css({'left': '0', 'right': '0'}).animate({'left': '-100%', 'right': '100%'}, 500);
-		$('#open-house').css({'left': '100%', 'right': '-100%'}).animate({'left': 0, 'right': 0}, 500);
-
-		if ( !isMobile )
-		{
-			if ($('#fireworks').length === 1 )
-			{
-				$('#fireworks').get(0).play();
-			}
-		}
+		$('#current-show').css({'left': '100%', 'right': '-100%'}).animate({'left': 0, 'right': 0}, 500);
 
 	});
 
-	$('.centered.page-2').click(function()
+	$('.page-2').click(function()
 	{
-		if ( !isMobile )
-		{
-			$('#fireworks').get(0).pause();
-		}
 
 		$('#press-release').css({'left': '100%', 'right': '-100%'})
 			.animate({'left': 0, 'right': 0}, 500);
-		$('#open-house').animate({'left': '-100%', 'right': '100%'}, 500)
+		$('#current-show').animate({'left': '-100%', 'right': '100%'}, 500)
 			.css({'left': '100%', 'right': '-100%'});
 	});
 
@@ -180,15 +158,20 @@ $(window).load(function()
 		if( e.target !== this )
 			return;
 
-		if ( !isMobile )
-		{
-			$('#fireworks').get(0).pause();
-		}
 		$('#home').css({'left': '100%', 'right': '-100%'})
 			.animate({'left': 0, 'right': 0}, 500);
 		$('#press-release').animate({'left': '-100%', 'right': '100%'}, 500)
 			.css({'left': '100%', 'right': '-100%'});
 	});
+	
+	// NAV CHANGE PAGES    
+    $('#nav li a').click(function()
+    {	
+    	var active = $(this).attr('href');
+    	$('#content li.active, #nav li.active').removeClass('active');
+    	$(this).parent('li').addClass('active');
+    	$('#content li' + active).addClass('active');
+    });
 
 	logoCenter();
 
@@ -204,10 +187,12 @@ $(window).load(function()
 
 
 	videoResize();
+	namesCenter();
 
 });
 
 window.onresize = function(event) {
 	logoResize();
 	videoResize();
+	namesCenter();
 };

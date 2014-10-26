@@ -1,7 +1,18 @@
+/*
+ * Colors
+ orange = #f05424;
+ maroon = #720f12;
+ pink = #facdd0;
+ light blue = #a9dde8;
+ 
+*/
 body {
 	margin: 0; padding: 0;
 	font-family: Helvetica, Arial, sans-serif;
 	overflow: hidden;
+}
+body.past {
+	overflow: auto;
 }
 section {
 	margin: 0;
@@ -100,7 +111,7 @@ section {
  */
 video { width: 100%; height: auto;}
 
-#open-house {
+#current-show {
 	position: absolute;
 	top:0;
 	left: 100%;
@@ -108,30 +119,107 @@ video { width: 100%; height: auto;}
 	bottom: 0;
 	overflow: hidden;
 	z-index: 2;
+	background: url(../images/fourpainters/wide.jpg) no-repeat center center;
+	background-size: cover;
 }
-#open-house h1 {
-	text-align: center;
-	font-size: 72px;
-	text-transform: uppercase;
-	font-family: 'bebasregular';
-	color: #fff;
-	margin: 0;
-	background: url('../images/open_house.png') no-repeat center center;
+#current-show h1 {
+	position: absolute;
+	background: url('../images/fourpainters/4painters.png') no-repeat;
 	margin: 0 auto;
-	background-size: 297px 54px;
+	width: 300px;
+	background-size: contain; /*500px 260px;*/
+	display: block;
+	height: 260px;
 	text-indent: -30000px;
-}
-#open-house .centered {
-	cursor: pointer;
+	z-index: 2;
 }
 
-.computer #open-house .centered:hover {
-	color: #fcff00;
-	cursor: pointer;
+#current-show h1.pos-1 {
+	top: 1%;
+	left: 40%;
 }
-.computer #open-house .centered:hover h1 {
-	background: url('../images/open_house_hover.png') no-repeat center center;
+#current-show h1.pos-2 {
+	top: 30%;
+	left: 60%;
 }
+#current-show h1.pos-3 {
+	top: 50%;
+	left: 50%;
+}
+#current-show h1.pos-4 {
+	top: 70%;
+	left: 25%;
+}
+#current-show h1.pos-5 {
+	top: 50%;
+	left: 30%;
+}
+
+#current-show .modal {
+	position: absolute;
+	bottom: 10px;
+	left: 12px;
+	top: initial;
+	right: initial;
+	width: 350px;
+}
+.names {
+	position: absolute;
+	left: 35%;
+	width: 30%;
+	top: 60%;
+	list-style: none;
+	color: #044e48;
+	margin: 0;
+	padding: 0;
+	font-size: 1.5em;
+	font-family: Helvetica, 'sans-serif';
+}
+#current-show .modal p	{
+	float: left;
+	margin: 0 30px 0 0;
+}
+
+@media (max-width: 900px) {
+	.names {
+		font-size: 1.2em;
+		left: 25%;
+		width: 50%;
+	}
+	#current-show h1 {
+		width: 200px;
+	}
+}
+@media (max-width: 600px) {
+	.names {
+		font-size: 1.1em;
+		left: 20%;
+		width: 50%;
+	}
+	#current-show .modal {
+		font-size: .8em;
+	}
+	#current-show h1 {
+		width: 180px;
+	}
+}
+@media (max-height: 500px) {
+	.names {
+		font-size: 1em;
+	}
+	#current-show h1 {
+		width: 120px;
+	}
+	#current-show .modal {
+		font-size: .6em;
+	}
+	#current-show .modal p	{
+		margin: 0 15px 0 0;
+	}
+
+}
+
+
 
 /*
  * PRESS RELEASE
@@ -143,9 +231,53 @@ video { width: 100%; height: auto;}
 	right: -100%;
 	bottom: 0;
 	overflow: hidden;
-	z-index: 1;
+	z-index: 6;
+	background: #fff;
 	cursor: pointer;
 	overflow: auto;
+}
+
+.page-3 {
+	position: relative;
+}
+
+#nav {
+	position: absolute;
+	top: 0;
+	left: -60px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	top: 125px;
+	left: -80px;
+	text-align: right;
+}
+
+#nav li.active a:hover,
+#nav li.active a {
+	color: #f05424;
+}
+#nav li a:hover {
+	color: #a9dde8;
+}
+
+#content > li {
+	display: none;
+}
+
+#content li.active {
+	display: block;
+}
+
+#content {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.show-list {
+	list-style: none;
+	padding: 0;
 }
 
 .small-logo {
@@ -175,11 +307,78 @@ video { width: 100%; height: auto;}
 }
 
 
+/*
+ * PAST PROJECTS
+ */
+#documentation ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#documentation ul img {
+	width: 100%;
+	height: auto;
+}
+#documentation ul li {
+	position: relative;
+}
+.caption {
+	position: absolute;
+	left: 10px;
+	bottom: 10px;
+	font-size: .8em;
+}
+#press-release .show-list a {
+	text-decoration: none;
+}
+#press-release .show-list a:hover {
+	color: #a9dde8;
+}
+
+/*
+ * OPEN HOUSE
+ */
+#open-house #poster {
+	font-family: 'bebasregular', sans-serif;
+	letter-spacing: 1px;
+}
+
+#open-house #poster h1 {
+	background: url('../images/open-house/open_house.png') no-repeat;
+	background-size: cover;
+	width: 149px;
+	height: 27px;
+	text-indent: -30000px;
+	margin: 0 auto;
+}
+#open-house #poster .centered:hover h1 {
+	background: url('../images/open-house/open_house_hover.png') no-repeat;
+	background-size: cover;
+}
+
+#open-house #poster .centered:hover p {
+	color: yellow;
+}
+
+
+
 @media (max-width: 640px) {
 	.centered {
 		width: 400px;
 		margin: 15px auto;
 	}
+	#nav {
+		position: static;
+		text-align: left;
+		width: 100%;
+		margin: 20px 0;
+		float: left;
+	}
+	#nav li {
+		float: left;
+		margin-right: 20px;
+	}
+
 }
 
 @media (max-width: 500px) {
