@@ -61,12 +61,11 @@
 
 	</section>
 
-	<section id="press-release">
+	<section id="info">
 
 		<ul id="nav">
-			<li class="active"><a href="#current">Current</a></li>
-			<li><a href="#past">Past</a></li>
-			<!--<li><a href="#future">Future</a></li>-->
+			<li class="active"><a href="#press-release">Press Release</a></li>
+			<li><a href="#exhibitions">Exhibitions</a></li>
 		</ul>
 
 		<div class="centered page-3">
@@ -74,7 +73,7 @@
 			<div class="small-logo"></div>
 			
 			<ul id="content">
-				<li id="current" class="active">
+				<li id="press-release" class="active">
 					<p><i>The Property</i> is pleased to announce its second exhibition: <i>Four Painters</i>, including the work of Daniel Ingroff, Karla Wozniak, Adam Novak, and Katie&nbsp;Herzog.</p>
 
 					<p><i>The Property</i> is an artist run exhibition space dedicated to the promotion of contemporary visual art, print and performance in and around the greater Los Angeles area.</p>
@@ -87,20 +86,21 @@
 					<p><a href='&#109;&#97;il&#116;o&#58;thep%72%&#54;Fpe&#37;72&#37;74%79&#37;2Egalle%&#55;2&#121;%2Ela&#64;&#103;%6D%61%69&#108;%2E%63om'>&#116;h&#101;propert&#121;&#46;g&#97;l&#108;e&#114;y&#46;la&#64;gmail&#46;c&#111;m</a></p>
 				</li>
 				
-				<li id="past">
+				<li id="exhibitions">
 					<ul class="show-list">
 						<li>
 							<a href="4-painters.php">
 								<h2>4 Painters</h2>
-								<div class="date">October, 2014</div>
-								<p class="show-body"><i>The Property</i> is pleased to announce its second exhibition: <i>Four Painters</i>, including the work of Daniel Ingroff, Karla Wozniak, Adam Novak, and Katie&nbsp;Herzog.</p>
+								<div class="date">Oct<span class="shorten">ober</span>, 2014</div>
+								<p class="show-body"><i>The Property</i> is pleased to announce its second exhibition: <i>Four Painters</i>,
+									including the work of Daniel Ingroff, Karla Wozniak, Adam Novak, and Katie&nbsp;Herzog. <i>Four Painters</i> will be on view through November 2nd.</p>
 							</a>
 						</li>
 
 						<li>
 							<a class="show-index" href="open-house.php">
 								<h2>Open House</h2>
-								<div class="date">August, 2014</div>
+								<div class="date">Aug<span class="shorten">ust</span>, 2014</div>
 								<p class="show-body">The Property's inaugural exhibition 'Open House' featured the work of Chris Oliveria, Liz Walsh, Jon-Paul Villegas, Sarah Bostwick, Amy Sarkisian, Karen Lofgren, Bettina Hubby, Dave Hughes and Evan Jourdan.</p>
 							</a>
 						</li>

@@ -51,6 +51,7 @@
 			</p>
 		</div>
 
+	<a class="documentation" href="#documentation">Documentation</a>
 </section>
 
 <?php
@@ -65,23 +66,32 @@ if ( $detect->isMobile() )
 <section id="documentation">
 	<ul>
 		<li>
-			<img src="images/open-house/<?php  echo $size ?>/01-InstallationView.jpg">
-			<div class="caption">Karla</div>
+			<img src="images/fourpainters/<?php  echo $size ?>/01_Karla_Adam.jpg">
+			<div class="caption">Karla </div>
 		</li>
 		<li>
-			<img src="images/open-house/<?php  echo $size ?>/02-InstallationView.jpg">
+			<img src="images/fourpainters/<?php  echo $size ?>/02_Katie_Daniel.jpg">
 			<div class="caption">Daniel</div>
 		</li>
 		<li>
-			<img src="images/open-house/<?php  echo $size ?>/03-ChrisOliveria.jpg">
+			<img src="images/fourpainters/<?php  echo $size ?>/03_Katie_Karla.jpg">
 			<div class="caption">Katie</div>
 		</li>
 		<li>
-			<img src="images/open-house/<?php  echo $size ?>/04-ChrisOliveria.jpg">
+			<img src="images/fourpainters/<?php  echo $size ?>/04_Daniel_Adam.jpg">
 			<div class="caption">Adam</div>
 		</li>
 	</ul>
 </section>
+<div id="footer">
+	<ul id="footer-nav">
+		<li><a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/open-house.php">AUG 2014</a></li>
+		<li><a class="active" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/4-painters.php">OCT 2014</a></li>
+	</ul>
+
+	<a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>"><div class="small-logo"></div></a>
+
+</div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="lib/jquery.easing.1.3.js"></script>
@@ -96,6 +106,34 @@ if ( $detect->isMobile() )
 	$(window).resize(function()
 	{
 		$('#documentation').css('margin-top', $('#poster').height());
+	});
+
+	//FOUR PAINTERS CENTER NAMES
+	function namesCenter()
+	{
+		var newTop = ($(window).height() - $('.names').height()) / 1.4;
+		$('.names').css('top', newTop );
+	}
+
+	//FOUR PAINTERS MOVE H1
+	var about_slide = $('#poster h1'),
+		counter = 1;
+
+	setInterval(function() {
+		about_slide.removeClass();
+		about_slide.addClass('pos-'+counter);
+
+		if (counter === 5) {
+			counter = 1;
+		} else {
+			counter++;
+		}
+	}, 500);
+
+	$(".documentation").click(function() {
+		$('html, body').animate({
+			scrollTop: $("#documentation").offset().top
+		}, 500);
 	});
 
 

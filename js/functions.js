@@ -159,7 +159,7 @@ $(window).load(function()
 	$('.page-2').click(function()
 	{
 
-		$('#press-release').css({'left': '100%', 'right': '-100%'})
+		$('#info').css({'left': '100%', 'right': '-100%'})
 			.animate({'left': 0, 'right': 0}, 500);
 		$('#current-show').animate({'left': '-100%', 'right': '100%'}, 500)
 			.css({'left': '100%', 'right': '-100%'});
@@ -172,7 +172,7 @@ $(window).load(function()
 
 		$('#home').css({'left': '100%', 'right': '-100%'})
 			.animate({'left': 0, 'right': 0}, 500);
-		$('#press-release').animate({'left': '-100%', 'right': '100%'}, 500)
+		$('#info').animate({'left': '-100%', 'right': '100%'}, 500)
 			.css({'left': '100%', 'right': '-100%'});
 	});
 	
@@ -199,6 +199,7 @@ $(window).load(function()
 
 
 	videoResize();
+	namesCenter();
 	namesCenter();
 
 });

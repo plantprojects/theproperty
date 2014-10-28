@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>The Property</title>
+	<title>The Property - Open House: August, 2014</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/open-house.css">
 	<meta name="description" content="The Property: 440 Broadway, Mezzanine, Los Angeles, CA">
 	<meta name="keywords" content="gallery, art gallery, artist space, The Property, art, Los Angeles, sculpture, painting, installation, video">
 	<meta name="viewport" content="width=device-width">
@@ -28,15 +29,17 @@
 
 	<section id="poster">
 		<div class="modal">
-			<div class="centered page-2">
-				<h1>Open &nbsp;House</h1>
-				<p>
-					August 28, 2014 &nbsp;7:00 PM - 10:00 PM<br>
-					440 Broadway Mezzanine Level <br>
-					Enter through parking garage
-				</p>
-				</p>
-			</div>
+			<a href="#documentation">
+				<div class="centered page-2">
+					<h1>Open &nbsp;House</h1>
+					<p>
+						August 28, 2014 &nbsp;7:00 PM - 10:00 PM<br>
+						440 Broadway Mezzanine Level <br>
+						Enter through parking garage
+					</p>
+					</p>
+				</div>
+			</a>
 		</div>
 		
 		<?php if ( $detect->isMobile() ) { ?>
@@ -162,6 +165,15 @@
 			</li>
 		</ul>
 	</section>
+	<div id="footer">
+		<ul id="footer-nav">
+			<li><a class="active" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/open-house.php">AUG 2014</a></li>
+			<li><a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/4-painters.php">OCT 2014</a></li>
+		</ul>
+
+		<div class="small-logo"></div>
+
+	</div>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="lib/jquery.easing.1.3.js"></script>
@@ -184,6 +196,12 @@
 		{
 			$('#fireworks').get(0).paused ? $('#fireworks').get(0).play() : $('#fireworks').get(0).pause();
 		})
+
+		$(".documentation").click(function() {
+			$('html, body').animate({
+				scrollTop: $("#documentation").offset().top
+			}, 2000);
+		});
 	</script>
 
 </body>

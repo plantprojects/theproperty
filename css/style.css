@@ -224,7 +224,7 @@ video { width: 100%; height: auto;}
 /*
  * PRESS RELEASE
  */
-#press-release {
+#info {
 	position: absolute;
 	top:0;
 	left: 100%;
@@ -235,6 +235,24 @@ video { width: 100%; height: auto;}
 	background: #fff;
 	cursor: pointer;
 	overflow: auto;
+}
+
+.small-logo {
+	height: 94px;
+	width: 100px;
+	background: url(../images/property_logo_sm.jpg) no-repeat top center;
+	background-size: 100px 94px;
+	cursor: pointer;
+	margin: 0 auto;
+	padding-bottom: 15px;
+	position: absolute;
+	top: 50px;
+	left: 0;
+	right: 0;
+}
+.computer .small-logo:hover {
+	background: url(../images/property_logo_sm_hover.jpg) no-repeat top center;
+	background-size: 100px 94px;
 }
 
 .page-3 {
@@ -249,6 +267,7 @@ video { width: 100%; height: auto;}
 	margin: 0;
 	top: 15px;
 	right: 15px;
+	z-index: 2;
 }
 #nav li {
 	float: left;
@@ -267,20 +286,18 @@ video { width: 100%; height: auto;}
 	color: #a9dde8;
 }
 
-#content > li {
-	display: none;
-}
-
-#content li.active {
-	display: block;
-}
-
 #content {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 	float: left;
-	margin-top: 180px;
+}
+#content > li {
+	padding-top: 180px;
+	display: none;
+}
+#content li.active {
+	display: block;
 }
 
 .show-list {
@@ -306,28 +323,10 @@ video { width: 100%; height: auto;}
 	text-align: right;
 }
 
-.small-logo {
-	height: 94px;
-	width: 100px;
-	background: url(../images/property_logo_sm.jpg) no-repeat top center;
-	background-size: 100px 94px;
-	cursor: pointer;
-	margin: 0 auto;
-	padding-bottom: 15px;
-	position: absolute;
-	top: 50px;
-	left: 0;
-	right: 0;
-}
-.computer .small-logo:hover {
-	background: url(../images/property_logo_sm_hover.jpg) no-repeat top center;
-	background-size: 100px 94px;
-}
-
-#press-release a {
+#info a {
 	color: black;
 }
-#press-release .centered {
+#info .centered {
 	color: black;
 	font-size: 1em;
 	text-transform: none;
@@ -337,11 +336,11 @@ video { width: 100%; height: auto;}
 	overflow: visible;
 	margin: 0 auto;
 }
-#press-release .show-list a {
+#info .show-list a {
 	text-decoration: none;
 }
-#press-release .show-list a:hover .date,
-#press-release .show-list a:hover {
+#info .show-list a:hover .date,
+#info .show-list a:hover {
 	color: #a9dde8;
 }
 
@@ -365,38 +364,84 @@ video { width: 100%; height: auto;}
 	margin: 5px 0 40px 10px;
 	font-size: .8em;
 }
-
-/*
- * OPEN HOUSE
- */
-#open-house #poster {
-	font-family: 'bebasregular', sans-serif;
-	letter-spacing: 1px;
+.documentation {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	z-index: 3;
+	color: black;
+	font-size: 12px;
+}
+.documentation:hover {
+	color: #a9dde8;
+}
+#footer {
+	margin-top: 80px;
+	clear: both;
+	position: relative;
+}
+#footer-nav {
+	padding: 0;
+	width: 210px;
+	margin: 20px auto;
+	list-style: none;
+}
+#footer-nav li {
+	float: left;
+	margin-right: 20px;
+}
+#footer-nav li:last-child {
+	margin-right: 0;
+}
+#footer-nav a {
+	color: black;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+#footer-nav .active {
+	color: #f05424;
+}
+#footer-nav a:hover {
+	color: #a9dde8;
+}
+#footer .small-logo,
+#footer .small-logo:hover {
+	background-size: 50px 47px;
 }
 
-#open-house #poster h1 {
-	background: url('../images/open-house/open_house.png') no-repeat;
-	background-size: cover;
-	width: 149px;
-	height: 27px;
-	text-indent: -30000px;
-	margin: 0 auto;
-}
-#open-house #poster .centered:hover h1 {
-	background: url('../images/open-house/open_house_hover.png') no-repeat;
-	background-size: cover;
-}
 
-#open-house #poster .centered:hover p {
-	color: yellow;
-}
 
+@media (max-width: 1000px) {
+	.small-logo {
+		top: 55px;
+	}
+	#info .centered {
+		width: 75%;
+	}
+	#info .show-list h2 {
+		font-size: 20px;
+	}
+	.date {
+		left: -115px;
+		font-size: 11px;
+	}
+	.shorten {
+		display: none;
+	}
+}
 
 
 @media (max-width: 640px) {
 	.centered {
 		width: 400px;
 		margin: 15px auto;
+	}
+	#info .centered {
+		width: 90%;
+	}
+	.show-list li {
+		margin-left: 80px;
 	}
 }
 
@@ -407,19 +452,5 @@ video { width: 100%; height: auto;}
 	}
 	.centered p {
 		font-size: .8em;
-	}
-	#open-house h1 {
-		height: 37px;
-		background-size: 149px 27px;/*297px 54px;*/
-	}
-}
-
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
-
-	#open-house .centered p {
-		font-size: .6em;
 	}
 }
