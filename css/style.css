@@ -382,7 +382,7 @@ video { width: 100%; height: auto;}
 }
 #footer-nav {
 	padding: 0;
-	width: 210px;
+	width:  134px;/*210px;*/
 	margin: 20px auto;
 	list-style: none;
 }
@@ -452,5 +452,18 @@ video { width: 100%; height: auto;}
 	}
 	.centered p {
 		font-size: .8em;
+	}
+	
+	#info .show-list h2 {
+		margin-bottom: 0;
+	}
+	.date {
+		left: 0;
+		text-align: left;
+		position: static;
+	}
+	
+	.show-list li {
+		margin-left: 0;
 	}
 }

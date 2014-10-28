@@ -51,7 +51,6 @@
 			</p>
 		</div>
 
-	<a class="documentation" href="#documentation">Documentation</a>
 </section>
 
 <?php
@@ -66,20 +65,20 @@ if ( $detect->isMobile() )
 <section id="documentation">
 	<ul>
 		<li>
-			<img src="images/fourpainters/<?php  echo $size ?>/01_Karla_Adam.jpg">
-			<div class="caption">Karla </div>
+			<img src="images/fourpainters/<?php  echo $size ?>/Karla_Wozniak_and_Adam_Novak.jpg">
+			<div class="caption">Karla Wozniak and Adam Novak</div>
 		</li>
 		<li>
-			<img src="images/fourpainters/<?php  echo $size ?>/02_Katie_Daniel.jpg">
-			<div class="caption">Daniel</div>
+			<img src="images/fourpainters/<?php  echo $size ?>/Katie_Herzog_and_Daniel_Ingroff.jpg">
+			<div class="caption">Katie Herzog and Daniel Ingroff</div>
 		</li>
 		<li>
-			<img src="images/fourpainters/<?php  echo $size ?>/03_Katie_Karla.jpg">
-			<div class="caption">Katie</div>
+			<img src="images/fourpainters/<?php  echo $size ?>/Katie_Herzog_and_Karla_Wozniak.jpg">
+			<div class="caption">Katie Herzog and Karla Wozniak</div>
 		</li>
 		<li>
-			<img src="images/fourpainters/<?php  echo $size ?>/04_Daniel_Adam.jpg">
-			<div class="caption">Adam</div>
+			<img src="images/fourpainters/<?php  echo $size ?>/Daniel_Ingroff_and_Adam_Novak.jpg">
+			<div class="caption">Adam Novak and Daniel Ingroff</div>
 		</li>
 	</ul>
 </section>
@@ -117,23 +116,42 @@ if ( $detect->isMobile() )
 
 	//FOUR PAINTERS MOVE H1
 	var about_slide = $('#poster h1'),
-		counter = 1;
+		counter = 1,
+		counterStop = 'false';
 
 	setInterval(function() {
 		about_slide.removeClass();
 		about_slide.addClass('pos-'+counter);
-
-		if (counter === 5) {
-			counter = 1;
-		} else {
-			counter++;
+		
+		if (counterStop === 'false' )
+		{
+		
+			if (counter === 5) {
+				counter = 1;
+			} else {
+				counter++;
+			}
 		}
 	}, 500);
 
-	$(".documentation").click(function() {
-		$('html, body').animate({
-			scrollTop: $("#documentation").offset().top
-		}, 500);
+	$('#poster').click(function()
+		{
+			counterStop = 'true';
+			
+			$('html, body').delay(1000).animate({
+				scrollTop: $("#documentation").offset().top
+			}, 500);
+
+	});
+	
+	$(window).scroll(function() {
+	    var height = $(window).scrollTop();
+	
+	    if(height  === 0) {
+	        // do something
+	        counterStop = 'false';
+
+	    }
 	});
 
 

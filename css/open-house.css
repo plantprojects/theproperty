@@ -12,37 +12,41 @@
 	text-transform: uppercase;
 	font-family: 'bebasregular';
 	color: #fff;
-	margin: 0;
-	background: url('../images/open_house.png') no-repeat center center;
 	margin: 0 auto;
-	background-size: 297px 54px;
 	text-indent: -30000px;
+	background: url(../images/open-house/sprites.png) no-repeat;
+	width: 297px;
+	height: 54px;
+	background-position: 0 0;
 }
 #open-house .centered {
 	cursor: pointer;
 }
-
-.computer #open-house .centered:hover a
-.computer #open-house .centered:hover {
-	color: #fcff00;
-	cursor: pointer;
+#open-house #poster a {
 	text-decoration: none;
 }
-.computer #open-house .centered:hover h1 {
-	background: url('../images/open_house_hover.png') no-repeat center center;
+
+.computer#open-house #poster .centered:hover h1 {
+	background-position: -1px -57px;
 }
 
+.computer#open-house .centered:hover {
+	color: #fcff00;
+	cursor: pointer;
+}
 @media (max-width: 500px) {
 	.centered {
 		width: 280px;
-		margin: 20px auto 50px auto;
+		margin: 40px auto 50px auto;
 	}
-	.centered p {
-		font-size: .8em;
+	#open-house #poster .centered p {
+		font-size: 11px;
 	}
-	#open-house h1 {
-		height: 37px;
-		background-size: 149px 27px;/*297px 54px;*/
+	#open-house #poster h1 {
+		height: 27px;
+		width: 149px;
+		margin: 5px auto;
+		background-size: 149px 55px;/*298px 111px;*/
 	}
 }
 

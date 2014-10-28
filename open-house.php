@@ -29,17 +29,17 @@
 
 	<section id="poster">
 		<div class="modal">
-			<a href="#documentation">
-				<div class="centered page-2">
-					<h1>Open &nbsp;House</h1>
-					<p>
-						August 28, 2014 &nbsp;7:00 PM - 10:00 PM<br>
-						440 Broadway Mezzanine Level <br>
-						Enter through parking garage
-					</p>
-					</p>
-				</div>
-			</a>
+			
+			<div class="centered page-2">
+				<h1>Open &nbsp;House</h1>
+				<p>
+					August 28, 2014 &nbsp;7:00 PM - 10:00 PM<br>
+					440 Broadway Mezzanine Level <br>
+					Enter through parking garage
+				</p>
+				</p>
+			</div>
+			
 		</div>
 		
 		<?php if ( $detect->isMobile() ) { ?>
@@ -195,12 +195,11 @@
 		$('#open-house #poster .centered').click(function()
 		{
 			$('#fireworks').get(0).paused ? $('#fireworks').get(0).play() : $('#fireworks').get(0).pause();
-		})
-
-		$(".documentation").click(function() {
-			$('html, body').animate({
+			
+			$('html, body').delay(500).animate({
 				scrollTop: $("#documentation").offset().top
-			}, 2000);
+			}, 500);
+
 		});
 	</script>
 
