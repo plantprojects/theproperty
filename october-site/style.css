@@ -1,18 +1,7 @@
-/*
- * Colors
- orange = #f05424;
- maroon = #720f12;
- pink = #facdd0;
- light blue = #a9dde8;
- 
-*/
 body {
 	margin: 0; padding: 0;
 	font-family: Helvetica, Arial, sans-serif;
 	overflow: hidden;
-}
-body.past {
-	overflow: auto;
 }
 section {
 	margin: 0;
@@ -224,15 +213,14 @@ video { width: 100%; height: auto;}
 /*
  * PRESS RELEASE
  */
-#info {
+#press-release {
 	position: absolute;
 	top:0;
 	left: 100%;
 	right: -100%;
 	bottom: 0;
 	overflow: hidden;
-	z-index: 6;
-	background: #fff;
+	z-index: 1;
 	cursor: pointer;
 	overflow: auto;
 }
@@ -245,194 +233,22 @@ video { width: 100%; height: auto;}
 	cursor: pointer;
 	margin: 0 auto;
 	padding-bottom: 15px;
-	position: absolute;
-	top: 50px;
-	left: 0;
-	right: 0;
 }
 .computer .small-logo:hover {
 	background: url(../images/property_logo_sm_hover.jpg) no-repeat top center;
 	background-size: 100px 94px;
 }
 
-.page-3 {
-	position: relative;
-}
-
-#nav {
-	list-style: none;
-	margin: 20px 0;
-	padding: 0;
-	position: absolute;
-	margin: 0;
-	top: 15px;
-	right: 15px;
-	z-index: 2;
-}
-#nav li {
-	float: left;
-	margin-right: 20px;
-	font-size: 12px;
-}
-#nav li a {
-	text-decoration: none;
-	padding: 2px 5px;
-}
-
-#nav li.active a {
-	color: #f05424;
-}
-#nav li a:hover {
-	color: #a9dde8;
-}
-
-#content {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	float: left;
-}
-#content > li {
-	padding-top: 180px;
-	display: none;
-}
-#content li.active {
-	display: block;
-}
-
-.show-list {
-	list-style: none;
-	padding: 0;
-}
-.show-list li {
-	position: relative;
-	margin-bottom: 80px;
-}
-
-.show-list li h2 {
-	text-transform: uppercase;
-}
-.date {
-	position: absolute;
-	left: -130px;
-	top: 0;
-	text-transform: uppercase;
-	font-size: 12px;
-	color: gray;
-	width: 100px;
-	text-align: right;
-}
-
-#info a {
+#press-release a {
 	color: black;
 }
-#info .centered {
+#press-release .centered {
 	color: black;
 	font-size: 1em;
 	text-transform: none;
 	text-align: left;
 	line-height: 1.5em;
 	cursor: default;
-	overflow: visible;
-	margin: 0 auto;
-}
-#info .show-list a {
-	text-decoration: none;
-}
-.computer #info .show-list a:hover .date,
-.computer #info .show-list a:hover {
-	color: #a9dde8;
-}
-
-
-/*
- * PAST PROJECTS
- */
-#documentation ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-#documentation ul img {
-	width: 100%;
-	height: auto;
-}
-#documentation ul li {
-	position: relative;
-}
-.caption {
-	margin: 0 0 40px 5px;
-	font-size: .8em;
-	transition: opacity 500ms ease;
-   -moz-transition: opacity 500ms ease;
-   -webkit-transition: opacity 500ms ease;
-}
-
-.documentation {
-	position: absolute;
-	bottom: 10px;
-	right: 10px;
-	z-index: 3;
-	color: black;
-	font-size: 12px;
-}
-.documentation:hover {
-	color: #a9dde8;
-}
-#footer {
-	margin-top: 80px;
-	clear: both;
-	position: relative;
-}
-#footer-nav {
-	padding: 0;
-	width:  134px;/*210px;*/
-	margin: 20px auto;
-	list-style: none;
-}
-#footer-nav li {
-	float: left;
-	margin-right: 20px;
-}
-#footer-nav li:last-child {
-	margin-right: 0;
-}
-#footer-nav a {
-	color: black;
-	font-size: 12px;
-	text-transform: uppercase;
-	text-decoration: none;
-}
-#footer-nav .active {
-	color: #f05424;
-}
-#footer-nav a:hover {
-	color: #a9dde8;
-}
-#footer .small-logo,
-#footer .small-logo:hover {
-	background-size: 50px 47px;
-}
-
-
-
-@media (max-width: 1000px) {
-	.small-logo {
-		top: 55px;
-	}
-	#info .centered {
-		width: 75%;
-	}
-	#info .show-list h2 {
-		font-size: 20px;
-	}
-	.date {
-		left: -115px;
-		font-size: 11px;
-	}
-	.shorten {
-		display: none;
-	}
 }
 
 
@@ -440,13 +256,6 @@ video { width: 100%; height: auto;}
 	.centered {
 		width: 400px;
 		margin: 15px auto;
-	}
-	#info .centered {
-		width: 90%;
-	}
-	.show-list li {
-		margin-left: 80px;
-		margin-bottom: 30px;
 	}
 }
 
@@ -458,20 +267,18 @@ video { width: 100%; height: auto;}
 	.centered p {
 		font-size: .8em;
 	}
-	
-	#info .show-list h2 {
-		margin-bottom: 0;
+	#open-house h1 {
+		height: 37px;
+		background-size: 149px 27px;/*297px 54px;*/
 	}
-	.date {
-		left: 0;
-		text-align: left;
-		position: static;
-	}
-	
-	.show-list li {
-		margin-left: 0;
-	}
-	.caption {
-		font-size:10px;
+}
+
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+
+
+	#open-house .centered p {
+		font-size: .6em;
 	}
 }

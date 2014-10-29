@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/open-house.css">
 	<meta name="description" content="The Property: 440 Broadway, Mezzanine, Los Angeles, CA">
 	<meta name="keywords" content="gallery, art gallery, artist space, The Property, art, Los Angeles, sculpture, painting, installation, video">
-	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:title" content="The Property - Open House" />
 	<meta property="og:type" content="website" />
@@ -42,6 +42,8 @@
 			
 		</div>
 		
+		<img style="display: none;" src="images/open-house/sprites.png"/>
+		
 		<?php if ( $detect->isMobile() ) { ?>
 			<img id="fireworks" src="images/open-house/firework.gif" alt="Open House" width="100%" height="auto">
 		<?php } else { ?>
@@ -65,102 +67,102 @@
 	<section id="documentation">
 		<ul>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/01-InstallationView.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/01-InstallationView.jpg" width="640" height="427">
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/02-InstallationView.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/02-InstallationView.jpg" width="640" height="427">
 				<div class="caption">Amy Sarkisian, Chris Oliveria, Bettina Hubby</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/03-ChrisOliveria.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/03-ChrisOliveria.jpg" width="640" height="960">
 				<div class="caption">Chris Oliveria</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/04-ChrisOliveria.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/04-ChrisOliveria.jpg" width="640" height="960">
 				<div class="caption">Chris Oliveria</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/05-AmySarkisian.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/05-AmySarkisian.jpg" width="640" height="427">
 				<div class="caption">Amy Sarkisian</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/06-AmySarkisian.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/06-AmySarkisian.jpg" width="640" height="427">
 				<div class="caption">Amy Sarkisian</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/07-BettinaHubby.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/07-BettinaHubby.jpg" width="640" height="960">
 				<div class="caption">Bettina Hubby</div>
 			</li>
 			<li>	
-				<img src="images/open-house/<?php  echo $size ?>/08-BettinaHubby.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/08-BettinaHubby.jpg" width="640" height="427">
 				<div class="caption">Bettina Hubby</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/09-InstallationView.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/09-InstallationView.jpg" width="640" height="427">
 				<div class="caption">Bettina Hubby, Karen Lofgren and Sarah Bostwick</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/10-KarenLofgren.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/10-KarenLofgren.jpg" width="640" height="991">
 				<div class="caption">Karen Lofgren</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/11-KarenLofgren.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/11-KarenLofgren.jpg" width="640" height="960">
 				<div class="caption">Karen Lofgren</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/12-KarenLofgren.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/12-KarenLofgren.jpg" width="640" height="427">
 				<div class="caption">Karen Lofgren</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/13-SarahBostwick.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/13-SarahBostwick.jpg" width="640" height="427">
 				<div class="caption">Sarah Bostwick</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/14-SarahBostwick.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/14-SarahBostwick.jpg" width="640" height="427">
 				<div class="caption">Sarah Bostwick</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/15-EvanEllsworthJourden.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/15-EvanEllsworthJourden.jpg" width="640" height="427">
 				<div class="caption">Evan Ellsworth Jourden</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/16-EvanEllsworthJourden.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/16-EvanEllsworthJourden.jpg" width="640" height="427">
 				<div class="caption">Evan Ellsworth Jourden</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/16.5-InstallationView.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/16.5-InstallationView.jpg" width="640" height="427">
 				<div class="caption">Evan Ellsworth Jourden and Jon-Paul Villegas</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/17-Jon-PaulVillegas.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/17-Jon-PaulVillegas.jpg" width="640" height="960">
 				<div class="caption">Jon-Paul Villegas</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/18-Jon-PaulVillegas.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/18-Jon-PaulVillegas.jpg" width="640" height="960">
 				<div class="caption">Jon-Paul Villegas</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/19-Jon-PaulVillegas.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/19-Jon-PaulVillegas.jpg" width="640" height="427">
 				<div class="caption">Jon-Paul Villegas</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/20-Jon-PaulVillegas.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/20-Jon-PaulVillegas.jpg" width="640" height="427">
 				<div class="caption">Jon-Paul Villegas</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/21-DaveHughes.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/21-DaveHughes.jpg" width="640" height="427">
 				<div class="caption">Dave Hughes</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/22-DaveHughes.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/22-DaveHughes.jpg" width="640" height="427">
 				<div class="caption">Dave Hughes</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/23-LizWalsh.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/23-LizWalsh.jpg" width="640" height="427">
 				<div class="caption">Liz Walsh</div>
 			</li>
 			<li>
-				<img src="images/open-house/<?php  echo $size ?>/24-LizWalsh.jpg">
+				<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/24-LizWalsh.jpg" width="640" height="427">
 				<div class="caption">Liz Walsh</div>
 			</li>
 		</ul>
@@ -171,12 +173,13 @@
 			<li><a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/4-painters.php">OCT 2014</a></li>
 		</ul>
 
-		<div class="small-logo"></div>
+		<a class="home" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>"><div class="small-logo"></div></a>
 
 	</div>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="lib/jquery.easing.1.3.js"></script>
+	<script src="lib/jquery.lazyload.min.js"></script>
 	
 	<script>
 		// if documentation is at top stop video
@@ -192,6 +195,22 @@
 		    }
 		});
 		
+		$(document).ready(function () {
+			$("img.lazy")
+		    	.lazyload({
+		        	event: "lazyload",
+		            effect: "fadeIn",
+		            effectspeed: 2000
+		        })
+		        .trigger("lazyload");
+		        
+		        
+		        setTimeout(function() {
+		        	$('.caption').css('opacity', 1);
+		        });
+		       
+		});
+				
 		$('#open-house #poster .centered').click(function()
 		{
 			$('#fireworks').get(0).paused ? $('#fireworks').get(0).play() : $('#fireworks').get(0).pause();

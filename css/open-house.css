@@ -4,6 +4,7 @@
 #open-house #poster {
 	/*font-family: 'bebasregular', sans-serif;
 	letter-spacing: 1px;*/
+	position: relative;
 }
 
 #open-house #poster h1 {
@@ -34,11 +35,16 @@
 	color: #fcff00;
 	cursor: pointer;
 }
-@media (max-width: 500px) {
+
+.caption {
+	opacity: 0;
+}
+@media (max-width: 640px) {
 	.centered {
-		width: 280px;
-		margin: 40px auto 50px auto;
+		width: 400px;
+		margin: 15% auto;
 	}
+
 	#open-house #poster .centered p {
 		font-size: 11px;
 	}
@@ -46,16 +52,18 @@
 		height: 27px;
 		width: 149px;
 		margin: 5px auto;
-		background-size: 149px 55px;/*298px 111px;*/
+		background-size: 149px 56px;/*298px 111px;*/
+	}
+	.computer#open-house #poster .centered:hover h1 {
+		background-position: -1px -29px;
 	}
 }
-
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-
-
-	#open-house .centered p {
-		font-size: .6em;
+@media (max-width: 500px) {
+	.centered {
+		width: 280px;
+		margin: 15% auto;
+	}
+	#open-house #poster .centered p {
+		font-size: 10px;
 	}
 }

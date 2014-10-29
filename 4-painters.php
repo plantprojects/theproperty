@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/four-painters.css">
 	<meta name="description" content="The Property: 440 Broadway, Mezzanine, Los Angeles, CA">
 	<meta name="keywords" content="gallery, art gallery, artist space, The Property, art, Los Angeles, sculpture, painting, installation, video">
-	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta property="og:title" content="The Property - Open House" />
 	<meta property="og:type" content="website" />
@@ -88,7 +88,7 @@ if ( $detect->isMobile() )
 		<li><a class="active" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/4-painters.php">OCT 2014</a></li>
 	</ul>
 
-	<a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>"><div class="small-logo"></div></a>
+	<a class="home" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>"><div class="small-logo"></div></a>
 
 </div>
 
