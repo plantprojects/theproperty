@@ -21,9 +21,26 @@ a {
 	color:black;
 }
 
-p, a {
+p, a, blockquote {
 	line-height: 28px;
 	font-size: 14px;
+}
+blockquote {
+	font-family: Georgia, serif;
+	font-style: italic;
+	margin: 0.25em 0;
+	padding: 0.25em 40px;
+	position: relative;
+	color: #383838;
+}
+blockquote cite {
+	color: #999999;
+	display: block;
+	margin-top: 15px;
+}
+ 
+blockquote cite:before {
+ content: "\2014 \2009";
 }
 
 section {
