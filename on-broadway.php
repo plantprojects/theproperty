@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Property</title>
+	<link rel="stylesheet" type="text/css" href="css/on-broadway.css">
+	<meta name="description" content="The Property: 440 Broadway, Mezzanine, Los Angeles, CA">
+	<meta name="keywords" content="gallery, art gallery, artist space, The Property, art, Los Angeles, sculpture, painting, installation, video">
+	<meta name="viewport" content="width=device-width">
+
+	<meta property="og:title" content="The Property: On Broadway" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://theproperty.gallery" />
+	<meta property="og:image" content="http://theproperty.gallery/images/property_logo.jpg" />
+	<meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA. 'On Broadway' Friday, December 12th - Sunday December 14th, 2014, 6pm - 11pm. The Property is pleased bring you the multi-media exhibition 'On Broadway', featuring the work of Jim Campbell, Jasper Fung, Clay Dean, Theresa Sterner and Benjamin Bergery," />
+
+	<?php require_once 'mobile_detect.php'; $detect = new Mobile_Detect; ?>
+	<script>
+		var isMobile = false;
+		<?php if ( $detect->isMobile() ) { ?>
+		// This is mobile
+		isMobile = true;
+		<?php } ?>
+	</script>
+</head>
+<body class="<?php if ( $detect->isMobile() ) { ?>device<?php } else { ?>computer<?php } ?>">
+
+<section id="poster">
+
+	<img src="images/on-broadway/inside_karate.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+
+	<div id="intro">
+		<div class="center">
+			<div class="info">
+			
+				<h1>On Broadway</h1>
+				
+				<ul>
+					<li>
+						<b>When:</b>
+						<p>Friday, December 12th, 2014</br>
+						Saturday, December 13th, 2014</br>
+						Sunday, December 14th, 2014<br/>
+						6pm - 11pm</p>					
+					</li>
+					
+					<li>
+						<b>Where:</b>
+						<p>440 Broadway, Mezzanine Level<br/>
+				Los Angeles, California</p>
+					</li>
+					
+					<li><b>Contact:</b>
+						<p>Sarah Bostwick<br/>
+						<a href='&#109;&#97;il&#116;o&#58;thep%72%&#54;Fpe&#37;72&#37;74%79&#37;2Egalle%&#55;2&#121;%2Ela&#64;&#103;%6D%61%69&#108;%2E%63om'>&#116;h&#101;propert&#121;&#46;g&#97;l&#108;e&#114;y&#46;la&#64;gmail&#46;c&#111;m</a></p>
+					</li>
+					
+					<li>
+						<b>For Immediate Release:</b><br/>
+						<p>The Property is please to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of Jim Campbell, Jasper Fung, Clay Dean, Theresa Sterner, Benjamin Bergery, Some Guy and Some Lady to take place the nights of December 12th, 13th and 14th, from 6pm to 11pm with generous support of LA City, the Tech Corporation and the Hotel Hotel.</p>
+			<p><i>On Broadway</i> is a presentation of projected, lit and amplified works housed in each of the storefronts of the 440 Broadway arcade mezzanine.  The experience being somewhere between browsing a rambling museum and window shopping, viewers can glimpse each work through a glass wall and choose to enter each store-cum-gallery space to take a closer look and hear the artworks corresponding audio.</p>
+			<p>The exhibition is free and open to the public and there is $5.50 parking available above the venue, cash only, with a performance by Blank to take place on Friday December 12th at 8pm.</p> 
+					
+					</li>
+				</ul>
+				
+				
+			</div>
+			
+			
+		</div>
+	</div>
+</section>
+
+<section id="jim-campbell">
+
+	<img src="images/on-broadway/Karate_looking_in_close.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+
+	<div class="artist">
+		<div class="center">
+			<h2>Jim Campbell</h2>
+			
+			<div class="caption">
+				<i>Glimpse</i>, 2007<br/>
+				Video Projector, DVD Player, slide projector, blank slides, custom electronics.
+			</div>
+			
+			<div class="artwork">
+				<p>A slide projector and a video projector point to the same spot on a wall. The superimposed projections from the two formats cause the video projection of found home movies to be washed out and nearly indecipherable.</p>
+				
+				<p>This installation consists of a slide projector and a video projector pointing to the same spot on a wall superimposing the images from the two formats. All of the slides in the projector are blank, so that only a white rectangle is projected onto the wall, washing out the superimposed dim video image of found home movies. The system works in such a way that every time a new image or edit point occurs in the video stream, the slide projector moves to the next slide. During this brief period of change, the projected image goes black and the home movie image is completely readable until the slide change is complete and the projector displays the next empty slide. In other words, only the first second or so of every new camera shot from the home movies is visible. When the two images are superimposed the video is so dim that it is only liminally readable.</p>
+			</div>
+	
+			<div class="bio">
+				<p>Jim Campbell (b. 1956). Campbell's work has been exhibited internationally and throughout North America in institutions such as the Whitney Museum of American Art, New York; the San Francisco Museum of Modern Art; The International Center for Photography, New York; The J. Paul Getty Museum, Los Angeles and the Museum of Contemporary Art, Sydney, Australia. His electronic art work is included in the permanent collections of the Museum of Modern Art, New York; the Smithsonian American Art Museum, Washington, DC; the Whitney Museum of American Art; the Metropolitan Museum of Art, New York; the San Francisco Museum of Modern Art; the de Young Museum, San Francisco and the Berkeley Art Museum. In 2012, he was the recipient of the San Francisco Museum of Modern Art’s 13th Annual Bay Area Treasure Award. Previous honors include a Rockefeller Foundation Fellowship Award in Multimedia, three Langlois Foundation Grants and a Guggenheim Fellowship Award. He has two Bachelor of Science Degrees in Mathematics and Engineering from MIT and as an engineer holds nearly twenty patents in the field of video image processing. A monograph of his work, Material Light, was published by Hatje Cantz in 2010.</p>
+				<a href="http://jimcampbell.tv" target="_blank">jimcampbell.tv</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="clay-dean">
+
+	<img src="images/on-broadway/R1_R2.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+
+	<div class="artist">
+		<div class="center">
+			<h2>Clay Dean</h2>
+			
+			<div class="caption">
+				<i>Not West of Western</i>, 2011<br/>
+				16mm, b/w, sound, 13.5 min
+			</div>
+			
+			<div class="artwork">
+				<p>Walking within parameters that define the heart of Los Angeles, Not West of Western explores the cross section of still photography and cinema while at the same time calling attention to the unique cross-cultural landscape of the city.</p>
+			</div>
+	
+			<div class="bio">
+				<p>Clay Dean bio here.</p>
+				
+				<a href="http://www.weekendspace.org/Clay%20Dean%20Exhibition%20Page.htm" target="_blank">www.weekendspace.org</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="jasper-fung">
+
+	<img src="images/on-broadway/R1_looking_in_far_crop.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+
+	<div class="artist">
+		<div class="center">
+			<h2>Jasper Fung</h2>
+			
+			<div class="caption">
+				<i>Many small people</i>, 2014<br/>
+				A recording composition as an audio diary.<br/>
+				Footage: East side gallery, Berlin, Deutschland (21.6.2014 ) & 7.1 Demonstration on the street (1.7.2014), Hong Kong
+			</div>
+			
+			<div class="artwork">
+				<p>Many small people artwork description here.</p>
+			</div>
+	
+			<div class="bio">
+				<p>Jasper Fung (b.1988), Hong Kong based artist and keyboardist. His work intertwines installation, music and sonic composition that significantly arouse introspection into today's discourteous and coarse world alongside the rapid elimination of social interactiveness. Fung's work explores the terrain over classical, alternative, sound and space, rooted in his determination to challenge any models of traditional discipline.</p>
+				<p>In 2012, Fung received his Bachelor Degree in School of Creative Media, City University of Hong Kong. He finished his first exhibition, "Discordia", 10 Chancery Lane Gallery with various Hong Kong young artists. in the same year, Fung co-organized the project DIODE, a platform to explore the unique experiences in sound art performance. In June 2014, Fung is invited to Goldesmiths, University of London for the international conference for New Interfaces Musical Expression.</p>
+				<a href="http://jasperfungty.com/" target="_blank">jasperfungty.com</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="theresa-sterner">
+
+<img src="images/on-broadway/07_L5_lawyers_office.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+
+	<div class="artist">
+		<div class="center">
+			<h2>Theresa Sterner</h2>
+			
+			<div class="caption">
+				<i>A collection of banished spaces</i>, 2014<br/>
+				Two channel projected video installation
+			</div>
+			
+			<div class="artwork">
+				<p>Thereas Sterner artwork description here.</p>
+			</div>
+	
+			<div class="bio">
+				<p>Born in 1985 in Colorado Springs, Colorado and grew up in Oregon. Received a BFA from the University of Oregon and an MFA in Sculpture from Tyler School of Art in Philadelphia. Currently lives and works in Brooklyn, New York.</p>
+				<a href="http://www.theresasterner.com/" target="_blank">www.theresasterner.com</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="benjamin-bergery">
+
+	<img src="images/on-broadway/L1_L2_L3.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+
+	<div class="artist">
+		<div class="center">
+			<h2>Benjamin Bergery</h2>
+			
+			<div class="caption">
+				Lights, 2014<br/>
+				
+			</div>
+			
+			<div class="artwork">
+				<p>Benjamin Bergery artwork description here.</p>
+			</div>
+	
+			<div class="bio">
+				<p>After a lengthy career in the movie industry, Benjamin Bergery returned to media installation art using his experienced acquired with cinematography and cinema lighting. He has exposed his art in the church of Saint-Sulpice, and venues in Europe, Australia and the US. Benjamin's work explores sacred art, primitive cinema, and the philosophy of media.</p>
+				
+				<a href="http://benjaminbergery.com" target="_blank">benjaminbergery.com</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="press-release">
+</section>
+
+
+	
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="lib/jquery.easing.1.3.js"></script>
+	<!--<script src="lib/modernizr.custom.js"></script>-->
+
+</body>
+</html>
