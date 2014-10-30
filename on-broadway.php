@@ -25,14 +25,17 @@
 <body class="<?php if ( $detect->isMobile() ) { ?>device<?php } else { ?>computer<?php } ?>">
 
 <section id="poster">
-
-	<img src="images/on-broadway/inside_karate.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+	<div class="header">
+		<div class="center-wrapper"><div class="center"><h1>On Broadway</h1></div></div>
+	
+		<img src="images/on-broadway/inside_karate.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+	</div>
 
 	<div id="intro">
 		<div class="center">
 			<div class="info">
 			
-				<h1>On Broadway</h1>
+				<h2>On Broadway</h2>
 				
 				<ul>
 					<li>
@@ -56,7 +59,7 @@
 					
 					<li>
 						<b>For Immediate Release:</b><br/>
-						<p>The Property is please to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of Jim Campbell, Jasper Fung, Clay Dean, Theresa Sterner, Benjamin Bergery, Some Guy and Some Lady to take place the nights of December 12th, 13th and 14th, from 6pm to 11pm with generous support of LA City, the Tech Corporation and the Hotel Hotel.</p>
+						<p>The Property is please to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of Jim Campbell, Clay Dean, Jasper Fung, Theresa Sterner, Benjamin Bergery, Some Guy and Some Lady to take place the nights of December 12th, 13th and 14th, from 6pm to 11pm with generous support of LA City, the Tech Corporation and the Hotel Hotel.</p>
 			<p><i>On Broadway</i> is a presentation of projected, lit and amplified works housed in each of the storefronts of the 440 Broadway arcade mezzanine.  The experience being somewhere between browsing a rambling museum and window shopping, viewers can glimpse each work through a glass wall and choose to enter each store-cum-gallery space to take a closer look and hear the artworks corresponding audio.</p>
 			<p>The exhibition is free and open to the public and there is $5.50 parking available above the venue, cash only, with a performance by Blank to take place on Friday December 12th at 8pm.</p> 
 					
@@ -95,7 +98,7 @@
 			</blockquote>
 	
 			<div class="bio">
-				<p>Jim Campbell (b. 1956). Campbell's work has been exhibited internationally and throughout North America in institutions such as the Whitney Museum of American Art, New York; the San Francisco Museum of Modern Art; The International Center for Photography, New York; The J. Paul Getty Museum, Los Angeles and the Museum of Contemporary Art, Sydney, Australia. His electronic art work is included in the permanent collections of the Museum of Modern Art, New York; the Smithsonian American Art Museum, Washington, DC; the Whitney Museum of American Art; the Metropolitan Museum of Art, New York; the San Francisco Museum of Modern Art; the de Young Museum, San Francisco and the Berkeley Art Museum. In 2012, he was the recipient of the San Francisco Museum of Modern Art’s 13th Annual Bay Area Treasure Award. Previous honors include a Rockefeller Foundation Fellowship Award in Multimedia, three Langlois Foundation Grants and a Guggenheim Fellowship Award. He has two Bachelor of Science Degrees in Mathematics and Engineering from MIT and as an engineer holds nearly twenty patents in the field of video image processing. A monograph of his work, Material Light, was published by Hatje Cantz in 2010.</p>
+				<p>Jim Campbell (b. 1956). Campbell's work has been exhibited internationally and throughout North America in institutions such as the Whitney Museum of American Art, New York; the San Francisco Museum of Modern Art; The International Center for Photography, New York; The J. Paul Getty Museum, Los Angeles and the Museum of Contemporary Art, Sydney, Australia. His electronic art work is included in the permanent collections of the Museum of Modern Art, New York; the Smithsonian American Art Museum, Washington, DC; the Whitney Museum of American Art; the Metropolitan Museum of Art, New York; the San Francisco Museum of Modern Art; the de Young Museum, San Francisco and the Berkeley Art Museum. In 2012, he was the recipient of the San Francisco Museum of Modern Art's 13th Annual Bay Area Treasure Award. Previous honors include a Rockefeller Foundation Fellowship Award in Multimedia, three Langlois Foundation Grants and a Guggenheim Fellowship Award. He has two Bachelor of Science Degrees in Mathematics and Engineering from MIT and as an engineer holds nearly twenty patents in the field of video image processing. A monograph of his work, Material Light, was published by Hatje Cantz in 2010.</p>
 				<a href="http://jimcampbell.tv" target="_blank">jimcampbell.tv</a>
 			</div>
 		</div>
@@ -116,7 +119,7 @@
 			</div>
 			
 			<div class="artwork">
-				<p>Walking within parameters that define the heart of Los Angeles, Not West of Western explores the cross section of still photography and cinema while at the same time calling attention to the unique cross-cultural landscape of the city.</p>
+				<p>Walking within parameters that define the heart of Los Angeles, Not West of Western explores the cross section of still photography and cinema while at the same time calling attention to the unique cross-cultural landscape of the city.  The short will be shown on film with a 16mm looping projector, mixing the hum of mechanical projection with the film's soundtrack of the Los Angeles freeway. Dean highlights the pedestrian's view of the city's center, pausing on neighborhood scenes before blinking and traveling on to the next tableau.  Not West of Western is an honest view of Los Angeles, the Los Angeles that just woke up and forgot to put on its make-up, or maybe even its pants.</p>
 			</div>
 	
 			<div class="bio">
@@ -143,7 +146,7 @@
 			</div>
 			
 			<div class="artwork">
-				<p>Many small people artwork description here.</p>
+				<p><i>Many small people</i> is a sound piece comprised of audio collected from two cities, the artist's homeland and dream-home, superimposed on one another, bringing the listener to three places at once, Hong Kong, Berlin and their present location in the abandoned mini-mall of downtown Los Angeles.  This Fall residents of Hong Kong are experiencing what it is like to have their freedom challenged both through official government interference of elections and unofficially through cultural dominance of newly transplanted wealthy Mainland Chinese. <i>Many small people</i> presented in surround sound on cassette, hints at Fung's position between fighting for the culture and city in which he was raised to remain independent and free, and dreaming of getting the hell out of Dodge and be an artist in the 'oasis' of Berlin. </p>
 			</div>
 	
 			<div class="bio">
@@ -198,15 +201,14 @@
 			</div>
 	
 			<div class="bio">
-				<p>After a lengthy career in the movie industry, Benjamin Bergery returned to media installation art using his experienced acquired with cinematography and cinema lighting. He has exposed his art in the church of Saint-Sulpice, and venues in Europe, Australia and the US. Benjamin's work explores sacred art, primitive cinema, and the philosophy of media.</p>
+				<p>After a lengthy career in the movie industry, Benjamin Bergery returned to media installation art using his experienced acquired with cinematography and cinema lighting. He has taught at MIT and USC, has worked at Atari, Lucasfilm and Panavision, and has exhibited in the church of Saint-Sulpice, Paris Nuit Blanche, Perth International Art Festival in Australia, and venues in Europe and the US. His work explores sacred art, primitive cinema, and the philosophy of media.</p>
+				<p>Bergery designs, produces and leads many seminars and workshops on the art and technology of cinema for professionals and students and is the author of the book <i>Reflections, 21 Cinematographers at Work</i> published by the ASC Press. He is the American Cinematographer's European correspondent, a consultant member of the AFC (French society of cinematographers), the founding editor of the French Lumi&egrave;res review and creates web content about filmmaking under the brand thefilmbook.</p>
+				<p>Bergery's work in the beginning of video and interactive art was supported by the US National Endowment for the Arts, and the Council for the Arts in Massachusetts and California. He has made a dozen video pieces, which have aired on PBS, and have screened in many video art venues. With Jan Crocker, he was one of the pioneers of music videos, filming groups like The Cure, The Buzzcocks, and others in Boston clubs.  Bergery currently lives and works in Paris, France.</p>
 				
 				<a href="http://benjaminbergery.com" target="_blank">benjaminbergery.com</a>
 			</div>
 		</div>
 	</div>
-</section>
-
-<section id="press-release">
 </section>
 
 
@@ -215,6 +217,34 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="lib/jquery.easing.1.3.js"></script>
 	<!--<script src="lib/modernizr.custom.js"></script>-->
+	
+	<script>
+		$(function() 
+		{
+			$('h1').click(function()
+			{
+      			$('html,body').animate({scrollTop: $('#intro').offset().top}, 500);
+			});
+			
+			titlePosition();
+			
+		});
+		
+		$(window).resize(function() 
+		{
+			titlePosition();
+		});
+		
+		function titlePosition()
+		{
+			if ($(window).height() < $('.header img').height() )
+			{
+				$('.center-wrapper').css('bottom', ($('.header img').height() - $(window).height()) - 50);
+			} else {
+				$('.center-wrapper').css('bottom', 0);
+			}
+		}
+	</script>
 
 </body>
 </html>
