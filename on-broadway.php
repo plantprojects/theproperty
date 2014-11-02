@@ -86,16 +86,6 @@
 				<i>Glimpse</i>, 2007<br/>
 				Video Projector, DVD Player, slide projector, blank slides, custom electronics.
 			</div>
-			
-			<div class="artwork">
-				<p>A slide projector and a video projector point to the same spot on a wall. The superimposed projections from the two formats cause the video projection of found home movies to be washed out and nearly indecipherable. Every time a new image or edit point occurs in the video stream, the slide projector moves to the next slide so only the first second of every new camera shot from the home movies is visible.</p>				
-			</div>
-			
-			<blockquote>
-				About 5 years ago I started making works that incorporated found home movie footage in a liminal way.  As the movies were presented in extremely low resolution, none of the details of the images were visible to the viewers giving them a somewhat "universal" home movie feel. Glimpse, which also uses found home movies, presents the films obscured/washed out by the light of a slide projector such that only the beginning of each camera shot is visible.  This structure makes Glimpse liminal in a different perceptual dimension compared to my other home movie based works.   One needs to use short term memory and edge recognition to comprehend the moving imagery of Glimpse.
-				
-				<cite>Jim Campbell</cite>
-			</blockquote>
 	
 			<div class="bio">
 				<p>Jim Campbell (b. 1956). Campbell's work has been exhibited internationally and throughout North America in institutions such as the Whitney Museum of American Art, New York; the San Francisco Museum of Modern Art; The International Center for Photography, New York; The J. Paul Getty Museum, Los Angeles and the Museum of Contemporary Art, Sydney, Australia. His electronic art work is included in the permanent collections of the Museum of Modern Art, New York; the Smithsonian American Art Museum, Washington, DC; the Whitney Museum of American Art; the Metropolitan Museum of Art, New York; the San Francisco Museum of Modern Art; the de Young Museum, San Francisco and the Berkeley Art Museum. In 2012, he was the recipient of the San Francisco Museum of Modern Art's 13th Annual Bay Area Treasure Award. Previous honors include a Rockefeller Foundation Fellowship Award in Multimedia, three Langlois Foundation Grants and a Guggenheim Fellowship Award. He has two Bachelor of Science Degrees in Mathematics and Engineering from MIT and as an engineer holds nearly twenty patents in the field of video image processing. A monograph of his work, Material Light, was published by Hatje Cantz in 2010.</p>
@@ -117,11 +107,7 @@
 				<i>Not West of Western</i>, 2011<br/>
 				16mm, b/w, sound, 13.5 min
 			</div>
-			
-			<div class="artwork">
-				<p>Walking within parameters that define the heart of Los Angeles, Not West of Western explores the cross section of still photography and cinema while at the same time calling attention to the unique cross-cultural landscape of the city.  The short will be shown on film with a 16mm looping projector, mixing the hum of mechanical projection with the film's soundtrack of the Los Angeles freeway. Dean highlights the pedestrian's view of the city's center, pausing on neighborhood scenes before blinking and traveling on to the next tableau.  Not West of Western is an honest view of Los Angeles, the Los Angeles that just woke up and forgot to put on its make-up, or maybe even its pants.</p>
-			</div>
-	
+
 			<div class="bio">
 				<p>Clay Dean bio here.</p>
 				
@@ -143,10 +129,6 @@
 				<i>Many small people</i>, 2014<br/>
 				A recording composition as an audio diary.<br/>
 				Footage: East side gallery, Berlin, Deutschland (21.6.2014 ) & 7.1 Demonstration on the street (1.7.2014), Hong Kong
-			</div>
-			
-			<div class="artwork">
-				<p><i>Many small people</i> is a sound piece comprised of audio collected from two cities, the artist's homeland and dream-home, superimposed on one another, bringing the listener to three places at once, Hong Kong, Berlin and their present location in the abandoned mini-mall of downtown Los Angeles.  This Fall residents of Hong Kong are experiencing what it is like to have their freedom challenged both through official government interference of elections and unofficially through cultural dominance of newly transplanted wealthy Mainland Chinese. <i>Many small people</i> presented in surround sound on cassette, hints at Fung's position between fighting for the culture and city in which he was raised to remain independent and free, and dreaming of getting the hell out of Dodge and be an artist in the 'oasis' of Berlin. </p>
 			</div>
 	
 			<div class="bio">
@@ -170,13 +152,9 @@
 				<i>A collection of banished spaces</i>, 2014<br/>
 				Two channel projected video installation
 			</div>
-			
-			<div class="artwork">
-				<p>Thereas Sterner artwork description here.</p>
-			</div>
 	
 			<div class="bio">
-				<p>Born in 1985 in Colorado Springs, Colorado and grew up in Oregon. Received a BFA from the University of Oregon and an MFA in Sculpture from Tyler School of Art in Philadelphia. Currently lives and works in Brooklyn, New York.</p>
+				<p>Theresa Sterner (b. 1985) was born in Colorado Springs, Colorado and grew up in Oregon.  She received her BFA from the University of Oregon and her MFA in Sculpture from Tyler School of Art.  Based in Brooklyn, New York, she makes sculpture and video that explores perception and landscape through physical casts and digital impressions.</p>
 				<a href="http://www.theresasterner.com/" target="_blank">www.theresasterner.com</a>
 			</div>
 		</div>
@@ -192,17 +170,11 @@
 			<h2>Benjamin Bergery</h2>
 			
 			<div class="caption">
-				Lights, 2014<br/>
-				
-			</div>
-			
-			<div class="artwork">
-				<p>Benjamin Bergery artwork description here.</p>
+				TBD, 2014<br/>
 			</div>
 	
 			<div class="bio">
 				<p>After a lengthy career in the movie industry, Benjamin Bergery returned to media installation art using his experienced acquired with cinematography and cinema lighting. He has taught at MIT and USC, has worked at Atari, Lucasfilm and Panavision, and has exhibited in the church of Saint-Sulpice, Paris Nuit Blanche, Perth International Art Festival in Australia, and venues in Europe and the US. His work explores sacred art, primitive cinema, and the philosophy of media.</p>
-				<p>Bergery designs, produces and leads many seminars and workshops on the art and technology of cinema for professionals and students and is the author of the book <i>Reflections, 21 Cinematographers at Work</i> published by the ASC Press. He is the American Cinematographer's European correspondent, a consultant member of the AFC (French society of cinematographers), the founding editor of the French Lumi&egrave;res review and creates web content about filmmaking under the brand thefilmbook.</p>
 				<p>Bergery's work in the beginning of video and interactive art was supported by the US National Endowment for the Arts, and the Council for the Arts in Massachusetts and California. He has made a dozen video pieces, which have aired on PBS, and have screened in many video art venues. With Jan Crocker, he was one of the pioneers of music videos, filming groups like The Cure, The Buzzcocks, and others in Boston clubs.  Bergery currently lives and works in Paris, France.</p>
 				
 				<a href="http://benjaminbergery.com" target="_blank">benjaminbergery.com</a>
@@ -217,34 +189,34 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<!--<script src="lib/jquery.easing.1.3.js"></script>-->
 	<!--<script src="lib/modernizr.custom.js"></script>-->
-	
-	<script>
-		$(function() 
+
+<script>
+	$(function()
+	{
+		$('h1').click(function()
 		{
-			$('h1').click(function()
-			{
-      			$('html,body').animate({scrollTop: $('#intro').offset().top}, 500);
-			});
-			
-			titlePosition();
-			
+			$('html,body').animate({scrollTop: $('#intro').offset().top}, 500);
 		});
-		
-		$(window).resize(function() 
+
+		titlePosition();
+
+	});
+
+	$(window).resize(function()
+	{
+		titlePosition();
+	});
+
+	function titlePosition()
+	{
+		if ($(window).height() < $('.header img').height() )
 		{
-			titlePosition();
-		});
-		
-		function titlePosition()
-		{
-			if ($(window).height() < $('.header img').height() )
-			{
-				$('.center-wrapper').css('bottom', ($('.header img').height() - $(window).height()) - 50);
-			} else {
-				$('.center-wrapper').css('bottom', 0);
-			}
+			$('.center-wrapper').css('bottom', ($('.header img').height() - $(window).height()) - 50);
+		} else {
+			$('.center-wrapper').css('bottom', 0);
 		}
-	</script>
+	}
+</script>
 
 </body>
 </html>

@@ -176,7 +176,7 @@
 			</div>
 	
 			<div class="bio">
-				<p>Born in 1985 in Colorado Springs, Colorado and grew up in Oregon. Received a BFA from the University of Oregon and an MFA in Sculpture from Tyler School of Art in Philadelphia. Currently lives and works in Brooklyn, New York.</p>
+				<p>Theresa Sterner (b. 1985) was born in Colorado Springs, Colorado and grew up in Oregon.  She received her BFA from the University of Oregon and her MFA in Sculpture from Tyler School of Art.  Based in Brooklyn, New York, she makes sculpture and video that explores perception and landscape through physical casts and digital impressions.</p>
 				<a href="http://www.theresasterner.com/" target="_blank">www.theresasterner.com</a>
 			</div>
 		</div>
@@ -202,7 +202,6 @@
 	
 			<div class="bio">
 				<p>After a lengthy career in the movie industry, Benjamin Bergery returned to media installation art using his experienced acquired with cinematography and cinema lighting. He has taught at MIT and USC, has worked at Atari, Lucasfilm and Panavision, and has exhibited in the church of Saint-Sulpice, Paris Nuit Blanche, Perth International Art Festival in Australia, and venues in Europe and the US. His work explores sacred art, primitive cinema, and the philosophy of media.</p>
-				<p>Bergery designs, produces and leads many seminars and workshops on the art and technology of cinema for professionals and students and is the author of the book <i>Reflections, 21 Cinematographers at Work</i> published by the ASC Press. He is the American Cinematographer's European correspondent, a consultant member of the AFC (French society of cinematographers), the founding editor of the French Lumi&egrave;res review and creates web content about filmmaking under the brand thefilmbook.</p>
 				<p>Bergery's work in the beginning of video and interactive art was supported by the US National Endowment for the Arts, and the Council for the Arts in Massachusetts and California. He has made a dozen video pieces, which have aired on PBS, and have screened in many video art venues. With Jan Crocker, he was one of the pioneers of music videos, filming groups like The Cure, The Buzzcocks, and others in Boston clubs.  Bergery currently lives and works in Paris, France.</p>
 				
 				<a href="http://benjaminbergery.com" target="_blank">benjaminbergery.com</a>
