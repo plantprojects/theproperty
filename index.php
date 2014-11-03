@@ -89,7 +89,7 @@
 				<li id="exhibitions">
 					<ul class="show-list">
 						<li>
-							<a href="4-painters.php">
+							<a href="4-painters">
 								<h2>4 Painters</h2>
 								<div class="date">Oct<span class="shorten">ober</span>, 2014</div>
 								<p class="show-body"><i>The Property</i> is pleased to announce its second exhibition: <i>Four Painters</i>,
@@ -98,7 +98,7 @@
 						</li>
 
 						<li>
-							<a class="show-index" href="open-house.php">
+							<a class="show-index" href="open-house">
 								<h2>Open House</h2>
 								<div class="date">Aug<span class="shorten">ust</span>, 2014</div>
 								<p class="show-body">The Property's inaugural exhibition 'Open House' featured the work of Chris Oliveria, Liz Walsh, Jon-Paul Villegas, Sarah Bostwick, Amy Sarkisian, Karen Lofgren, Bettina Hubby, Dave Hughes and Evan Jourdan.</p>

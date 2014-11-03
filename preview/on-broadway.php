@@ -59,9 +59,10 @@
 					
 					<li>
 						<b>For Immediate Release:</b><br/>
-						<p>The Property is please to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of Jim Campbell, Clay Dean, Jasper Fung, Theresa Sterner, Benjamin Bergery, Some Guy and Some Lady to take place the nights of December 12th, 13th and 14th, from 6pm to 11pm with generous support of LA City, the Tech Corporation and the Hotel Hotel.</p>
-			<p><i>On Broadway</i> is a presentation of projected, lit and amplified works housed in each of the storefronts of the 440 Broadway arcade mezzanine.  The experience being somewhere between browsing a rambling museum and window shopping, viewers can glimpse each work through a glass wall and choose to enter each store-cum-gallery space to take a closer look and hear the artworks corresponding audio.</p>
-			<p>The exhibition is free and open to the public and there is $5.50 parking available above the venue, cash only, with a performance by Blank to take place on Friday December 12th at 8pm.</p> 
+						<p>The Property is please to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of Jim Campbell, Clay Dean, Jasper Fung, Theresa Sterner,
+							and Benjamin Bergery to take place the nights of December 12th, 13th and 14th, from 6pm to 11pm.</p>
+						<p><i>On Broadway</i> is a presentation of projected, lit and amplified works housed in each of the storefronts of the 440 Broadway arcade mezzanine.  The experience being somewhere between browsing a rambling museum and window shopping, viewers can glimpse each work through a glass wall and choose to enter each store-cum-gallery space to take a closer look and hear the artworks corresponding audio.</p>
+						<p>The exhibition is free and open to the public and there is $5.50 parking available above the venue, cash only, with a performance by TBD to take place on Friday December 12th at 8pm.</p>
 					
 					</li>
 				</ul>
@@ -119,11 +120,13 @@
 			</div>
 			
 			<div class="artwork">
-				<p>Walking within parameters that define the heart of Los Angeles, Not West of Western explores the cross section of still photography and cinema while at the same time calling attention to the unique cross-cultural landscape of the city.  The short will be shown on film with a 16mm looping projector, mixing the hum of mechanical projection with the film's soundtrack of the Los Angeles freeway. Dean highlights the pedestrian's view of the city's center, pausing on neighborhood scenes before blinking and traveling on to the next tableau.  Not West of Western is an honest view of Los Angeles, the Los Angeles that just woke up and forgot to put on its make-up, or maybe even its pants.</p>
+				<p>Walking within parameters that define the heart of Los Angeles, <i>Not West of Western</i> explores the cross section of still photography and cinema
+					while at the same time calling attention to the unique cross-cultural landscape of the city.
+					The short will be shown on film with a 16mm looping projector, mixing the hum of mechanical projection with the film's ambient soundtrack of the Los Angeles landscape. Dean highlights the pedestrian's view of the city's center, pausing on neighborhood scenes before blinking and traveling on to the next tableau.  Not West of Western is an honest view of Los Angeles, the Los Angeles that just woke up and forgot to put on its make-up, or maybe even its pants.</p>
 			</div>
 	
 			<div class="bio">
-				<p>Clay Dean bio here.</p>
+				<p>Clay Dean is a visual artist who takes a methodological and metaphysical approach toward the understanding of material and environment. This results in images and objects that are born from process and an exploration of the formal qualities of medium. His most recent work looks at the intersection of the still and moving image by re-contextualizing the remnants of urban spaces. His work has been shown at Film Forum (Los Angeles), Dhaka International Film Festival (Bangladesh), STARZ Film Center (Denver), Museum of Contemporary Art (Los Angeles), and most recently a solo exhibition at WEEKEND Gallery (Los Angeles). Clay Dean lives and works in Los Angeles, California.</p>
 				
 				<a href="http://www.weekendspace.org/Clay%20Dean%20Exhibition%20Page.htm" target="_blank">www.weekendspace.org</a>
 			</div>
@@ -146,11 +149,11 @@
 			</div>
 			
 			<div class="artwork">
-				<p><i>Many small people</i> is a sound piece comprised of audio collected from two cities, the artist's homeland and dream-home, superimposed on one another, bringing the listener to three places at once, Hong Kong, Berlin and their present location in the abandoned mini-mall of downtown Los Angeles.  This Fall residents of Hong Kong are experiencing what it is like to have their freedom challenged both through official government interference of elections and unofficially through cultural dominance of newly transplanted wealthy Mainland Chinese. <i>Many small people</i> presented in surround sound on cassette, hints at Fung's position between fighting for the culture and city in which he was raised to remain independent and free, and dreaming of getting the hell out of Dodge and be an artist in the 'oasis' of Berlin. </p>
+				<p><i>Many small people</i> is a sound piece comprised of audio collected from protest events in Hong Kong and the site of the former Berlin wall in Germany, superimposed on one another, bringing the audience to an unrealistic place representing the artist's imagination. After the handover of Hong Kong to China in 1997,  the democracy and freedom formerly experienced by its citizens has been challenged by the Chinese Communists through excessive assimilation. By superimposing the ambient sounds of Berlin, which Fung believes its history is similar to current Hong Kong, <i>Many small people </i>hints at what the artist is yearning for in post-colonial Hong Kong.</p>
 			</div>
 	
 			<div class="bio">
-				<p>Jasper Fung (b.1988), Hong Kong based artist and keyboardist. His work intertwines installation, music and sonic composition that significantly arouse introspection into today's discourteous and coarse world alongside the rapid elimination of social interactiveness. Fung's work explores the terrain over classical, alternative, sound and space, rooted in his determination to challenge any models of traditional discipline.</p>
+				<p>Jasper Fung (b.1988), is a Hong Kong based artist and keyboardist. His work intertwines installation, music and sonic composition that significantly arouse introspection into today's discourteous and coarse world alongside the rapid elimination of social interactiveness. Fung's work explores the terrain over classical, alternative, sound and space, rooted in his determination to challenge any models of traditional discipline.</p>
 				<p>In 2012, Fung received his Bachelor Degree in School of Creative Media, City University of Hong Kong. He finished his first exhibition, "Discordia", 10 Chancery Lane Gallery with various Hong Kong young artists. in the same year, Fung co-organized the project DIODE, a platform to explore the unique experiences in sound art performance. In June 2014, Fung is invited to Goldesmiths, University of London for the international conference for New Interfaces Musical Expression.</p>
 				<a href="http://jasperfungty.com/" target="_blank">jasperfungty.com</a>
 			</div>
@@ -171,11 +174,12 @@
 				Two channel projected video installation
 			</div>
 			
-			<div class="artwork">
-				<p>Thereas Sterner artwork description here.</p>
-			</div>
+			<!--<div class="artwork">
+			</div>-->
 	
 			<div class="bio">
+				<p>Sterner's sculptural video installations present the experience of moving through an everyday landscape as seen through a lens, veil and possibly yet another screen, so the viewer is engulfed in a familiar landscape, but twice or three times removed, to create a meta, almost ghost-like experience where the landscape is real and the viewer is the apparition.</p>
+
 				<p>Theresa Sterner (b. 1985) was born in Colorado Springs, Colorado and grew up in Oregon.  She received her BFA from the University of Oregon and her MFA in Sculpture from Tyler School of Art.  Based in Brooklyn, New York, she makes sculpture and video that explores perception and landscape through physical casts and digital impressions.</p>
 				<a href="http://www.theresasterner.com/" target="_blank">www.theresasterner.com</a>
 			</div>
@@ -192,18 +196,21 @@
 			<h2>Benjamin Bergery</h2>
 			
 			<div class="caption">
-				Lights, 2014<br/>
+				<i>French Kiss</i>, 2014<br/>
+				Light installation with technology by Jim Campbell
 				
 			</div>
 			
-			<div class="artwork">
-				<p>Benjamin Bergery artwork description here.</p>
-			</div>
+			<!--<div class="artwork">
+			</div>-->
 	
 			<div class="bio">
-				<p>After a lengthy career in the movie industry, Benjamin Bergery returned to media installation art using his experienced acquired with cinematography and cinema lighting. He has taught at MIT and USC, has worked at Atari, Lucasfilm and Panavision, and has exhibited in the church of Saint-Sulpice, Paris Nuit Blanche, Perth International Art Festival in Australia, and venues in Europe and the US. His work explores sacred art, primitive cinema, and the philosophy of media.</p>
+				<p>Benjamin Bergery's work in the beginning of video and interactive art was supported by the US National Endowment for the Arts, and the Council for the Arts in Massachusetts and California. He made a dozen video pieces, with airings on PBS and screenings in video art venues. With Jan Crocker, he was one of the pioneers of music videos, shooting groups like The Cure, The Buzzcocks, and others in Boston clubs.</p>
+				<p>Bergery has taught at MIT and USC, and has worked at Atari, Lucasfilm and Panavision. After a career in the movie industry, Bergery returned to media installation art, applying his experienced acquired with cinematography and cinematic lighting. Benjamin has exhibited in the church of Saint-Sulpice, Paris Nuit Blanche, Perth International Art Festival in Australia, and venues in Europe and the US, including a solo show at the LUMA museum in Chicago. His light and video work explores sacred art, primitive cinema, and the philosophy of media.</p>
+				<p>Bergery currently lives and works in Paris, France.</p>
+				<!--<p>After a lengthy career in the movie industry, Benjamin Bergery returned to media installation art using his experienced acquired with cinematography and cinema lighting. He has taught at MIT and USC, has worked at Atari, Lucasfilm and Panavision, and has exhibited in the church of Saint-Sulpice, Paris Nuit Blanche, Perth International Art Festival in Australia, and venues in Europe and the US. His work explores sacred art, primitive cinema, and the philosophy of media.</p>
 				<p>Bergery's work in the beginning of video and interactive art was supported by the US National Endowment for the Arts, and the Council for the Arts in Massachusetts and California. He has made a dozen video pieces, which have aired on PBS, and have screened in many video art venues. With Jan Crocker, he was one of the pioneers of music videos, filming groups like The Cure, The Buzzcocks, and others in Boston clubs.  Bergery currently lives and works in Paris, France.</p>
-				
+				-->
 				<a href="http://benjaminbergery.com" target="_blank">benjaminbergery.com</a>
 			</div>
 		</div>
@@ -224,9 +231,11 @@
 			{
       			$('html,body').animate({scrollTop: $('#intro').offset().top}, 500);
 			});
-			
+		});
+
+		$(window).load(function()
+		{
 			titlePosition();
-			
 		});
 		
 		$(window).resize(function() 

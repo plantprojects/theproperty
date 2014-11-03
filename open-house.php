@@ -169,8 +169,8 @@
 	</section>
 	<div id="footer">
 		<ul id="footer-nav">
-			<li><a class="active" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/open-house.php">AUG 2014</a></li>
-			<li><a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/4-painters.php">OCT 2014</a></li>
+			<li><a class="active" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/open-house">AUG 2014</a></li>
+			<li><a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/4-painters">OCT 2014</a></li>
 		</ul>
 
 		<a class="home" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>"><div class="small-logo"></div></a>

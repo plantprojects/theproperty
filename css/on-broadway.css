@@ -21,9 +21,9 @@ h1 {
 	opacity: .7;
 	filter: alpha(opacity=70);
 	transition: opacity 500ms ease;
-	 -webkit-transition: opacity 500ms ease;
-    -moz-transition: opacity 500ms ease;
-    -o-transition: opacity 500ms ease; 
+	-webkit-transition: opacity 500ms ease;
+	-moz-transition: opacity 500ms ease;
+	-o-transition: opacity 500ms ease;
 }
 h1:hover {
 	opacity: 1;
@@ -63,9 +63,9 @@ blockquote cite {
 	display: block;
 	margin-top: 15px;
 }
- 
+
 blockquote cite:before {
- content: "\2014 \2009";
+	content: "\2014 \2009";
 }
 
 section {
@@ -98,6 +98,14 @@ section {
 	.artist {
 		padding: 0 30px;
 	}
+
+}
+
+@media screen and (max-width: 700px) {
+	.artwork,
+	.bio {
+		margin: 40px 0;
+	}
 	.caption {
 		font-size: 9px;
 		line-height: 14px;
@@ -109,5 +117,4 @@ section {
 	blockquote {
 		padding: 0 20px;
 	}
-
 }
