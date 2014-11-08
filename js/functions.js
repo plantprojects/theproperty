@@ -52,36 +52,35 @@ if ( !isMobile )
 // Background image FIT WINDOW
 function videoResize()
 {
+	// 2048/1536 1.33  .75
 	winWidth = $(window).width();
 	winHeight = $(window).height();
-/*
-	if ( winHeight > ($('#current').height() + $('.small-logo').height() ) )
+
+	console.log('window ratio = ' + (winWidth/winHeight));
+
+	if ( winWidth/winHeight > 1.33 )
 	{
-		$('.centered.page-3').css('margin-top', (winHeight - $('.centered.page-3').height() - 100) / 2);
-	}*/
+		$('#the-awful-truth').height(winHeight).width( winHeight /.75).css('position', 'static');
+
+	} else if (winWidth/winHeight < 1.33 && winWidth <= 400 )
+	{
+		$('#the-awful-truth').height('auto').width('100%').css('position', 'absolute');
+	} else
+	{
+		$('#the-awful-truth').height('auto').width('100%').css('position', 'static');
+	}
+
+	if ( winWidth/(winHeight - 80) > 1.33 )
+	{
+		$('.below-fold').hide();
+	} else {
+		$('.below-fold').show();
+
+	}
+
+
 }
 
-//FOUR PAINTERS CENTER NAMES
-function namesCenter()
-{
-	var newTop = ($(window).height() - $('.names').height()) / 1.4;
-	$('.names').css('top', newTop );
-}
-
-//FOUR PAINTERS MOVE H1
-var about_slide = $('#current-show h1'),
-    counter = 1;
-
-setInterval(function() {
-  about_slide.removeClass();
-  about_slide.addClass('pos-'+counter);
-  
-  if (counter === 5) {
-	counter = 1;
-  } else {
-	counter++;
-  }
-}, 500);
 
 // CENTER LOGO
 function logoCenter()
@@ -199,13 +198,9 @@ $(window).load(function()
 
 
 	videoResize();
-	namesCenter();
-	namesCenter();
-
 });
 
 window.onresize = function(event) {
 	logoResize();
 	videoResize();
-	namesCenter();
 };

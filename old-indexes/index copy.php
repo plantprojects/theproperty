@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>The Property</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<meta name="description" content="The Property: 440 Broadway, Mezzanine, Los Angeles, CA">
 	<meta name="keywords" content="gallery, art gallery, artist space, The Property, art, Los Angeles, sculpture, painting, installation, video">
 	<meta name="viewport" content="width=device-width">
@@ -28,7 +28,7 @@
 
 
 	<section id="home">
-		<h1><a href="javascript:void(0);" class="start"><?php if ( !$detect->isMobile() ) { ?><img src="images/property_logo.jpg" alt="The Property"/><?php } ?></a></h1>
+		<h1><a href="javascript:void(0);" class="start"><?php if ( !$detect->isMobile() ) { ?><img src="../images/property_logo.jpg" alt="The Property"/><?php } ?></a></h1>
 	</section>
 
 	<section id="open-house">
@@ -45,12 +45,12 @@
 		</div>
 
 		<?php if ( $detect->isMobile() ) { ?>
-			<img id="fireworks" src="images/firework.gif" alt="Open House" width="100%" height="auto">
+			<img id="fireworks" src="../images/firework.gif" alt="Open House" width="100%" height="auto">
 		<?php } else { ?>
 			<video class="video-container fillwidth" id="fireworks" loop>
-				<source src="video/property_opening.webm" type="video/webm">
-				<source src="video/property_opening.m4v" type="video/mp4">
-				<source src="video/property_opening.ogv" type="video/ogg">
+				<source src="../video/property_opening.webm" type="video/webm">
+				<source src="../video/property_opening.m4v" type="video/mp4">
+				<source src="../video/property_opening.ogv" type="video/ogg">
 			</video>
 		<?php } ?>
 
@@ -75,8 +75,8 @@
 	</section>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="lib/jquery.easing.1.3.js"></script>
-	<script src="js/functions.js"></script>
+	<script src="../lib/jquery.easing.1.3.js"></script>
+	<script src="../js/functions.js"></script>
 	<!--<script src="lib/modernizr.custom.js"></script>-->
 
 </body>
