@@ -59,15 +59,16 @@
 			<ul id="content">
 				<li id="press-release" class="active">
 					<p>The Property is pleased to announce the opening of <i>The&nbsp;Awful&nbsp;Truth</i>,
-						a solo exhibition by Los&nbsp;Angeles based sculptor and installation artist, Jon-Paul&nbsp;Villegas.</p>
+						a solo exhibition by Los&nbsp;Angeles based sculptor and installation artist, <span style="white-space: nowrap;">Jon-Paul</span>&nbsp;Villegas.</p>
+
+					<p><b>Opening Reception: Saturday, November 22nd, 2014, 6pm&nbsp;-&nbsp;9pm.</b></p>
+					<p>Hours are 11-5 Saturday/Sunday and by appointment.</p>
 
 					<p>The Property is an artist run exhibition space dedicated to the promotion of contemporary visual art, print and performance in and around the greater Los Angeles area.</p>
 					
 					<p>We are located at <a href="https://goo.gl/maps/WUxJp" target="_blank">440 Broadway</a> (2nd Floor)
 						in downtown Los&nbsp;Angeles. Enter the building through the street level garage and take the stairs by the elevator to the buildings mezzanine level to visit the gallery. Garage parking is available at 440 Broadway, $5.50 cash&nbsp;only. </p>
-		
-					<p><b>Opening Reception: Saturday, November 22nd, 2014, 6pm - 9pm.</b></p>
-					<p>Hours are 11-5 Saturday/Sunday and by appointment.</p>
+
 					<p><a href='&#109;&#97;il&#116;o&#58;thep%72%&#54;Fpe&#37;72&#37;74%79&#37;2Egalle%&#55;2&#121;%2Ela&#64;&#103;%6D%61%69&#108;%2E%63om'>&#116;h&#101;propert&#121;&#46;g&#97;l&#108;e&#114;y&#46;la&#64;gmail&#46;c&#111;m</a></p>
 				</li>
 				
