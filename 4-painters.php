@@ -78,7 +78,7 @@ if ( $detect->isMobile() )
 		</li>
 		<li>
 			<img src="images/fourpainters/<?php  echo $size ?>/Daniel_Ingroff_and_Adam_Novak.jpg">
-			<div class="caption">Adam Novak and Daniel Ingroff</div>
+			<div class="caption">Daniel Ingroff and Adam Novak</div>
 		</li>
 	</ul>
 </section>

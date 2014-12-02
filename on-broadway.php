@@ -59,7 +59,7 @@
 					
 					<li>
 						<b>For Immediate Release:</b><br/>
-						<p>The Property is please to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of Jim Campbell, Clay Dean, Jasper Fung, Theresa Sterner and Benjamin Bergery to take place the nights of December 12th, 13th and 14th, from 6pm to 11pm.</p>
+						<p>The Property is please to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of Endia Beal, Benjamin Bergery, Jim Campbell, Clay Dean, Jasper Fung, Marcus Herse and Theresa Sterner to take place the nights of December 12th, 13th and 14th, from 6pm to 11pm.</p>
 						<p><i>On Broadway</i> is a presentation of projected, lit and amplified works housed in each of the storefronts of the 440 Broadway arcade mezzanine.  The experience being somewhere between browsing a rambling museum and window shopping, viewers can glimpse each work through a glass wall and choose to enter each store-cum-gallery space to take a closer look and hear the artworks corresponding audio.</p>
 						<p>The exhibition is free and open to the public and there is $5.50 parking available above the venue, cash only.</p>
 					</li>
@@ -178,7 +178,8 @@
 			<div class="bio">
 				<p>Sterner's sculptural video installations present the experience of moving through an everyday landscape as seen through a lens, veil and possibly yet another screen, so the viewer is engulfed in a familiar landscape, but twice or three times removed, to create a meta, almost ghost-like experience where the landscape is real and the viewer is the apparition.</p>
 
-				<p>Theresa Sterner (b. 1985) was born in Colorado Springs, Colorado and grew up in Oregon.  She received her BFA from the University of Oregon and her MFA in Sculpture from Tyler School of Art.  Based in Brooklyn, New York, she makes sculpture and video that explores perception and landscape through physical casts and digital impressions.</p>
+				<p>Theresa Sterner (b.1985) received her BFA from the University of Oregon and her MFA from Tyler School of Art in Philadelphia.  Growing up amidst a backdrop of open farmland and blue-collar towns in the Pacific Northwest, and traveling throughout the deserts of the southwestern United States has influenced her interest in how environment and physical structures affect one’s sense of identity and agency within a place.   Based in Brooklyn, New York, she makes sculpture and video that explores perception and landscape through physical casts and digital impressions.</p>
+				<p>She has exhibited in Portland, Philadelphia, New York, Los Angeles, Sweden and Mexico and has been a part of numerous projects, such as a collaboration with the Royal Institute of Art in Stockholm for a residency at the Stripa Mine, a historic iron ore mine in Bergslagen Sweden; and she is currently working on a collaborative article about ornamentation and the construction of individual identity with a specialist in Southwestern US Archaeology at the University of New Mexico.</p>
 				<a href="http://www.theresasterner.com/" target="_blank">www.theresasterner.com</a>
 			</div>
 		</div>
@@ -195,7 +196,7 @@
 
 			<div class="caption">
 				<i>French Kiss</i>, 2014<br/>
-				Light installation with technology by Jim Campbell
+				Fresnel lights, custom electronics by Jim Campbell
 
 			</div>
 
