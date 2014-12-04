@@ -10,7 +10,7 @@ ul {
 }
 
 ul li {
-	margin: 50px 0;
+	margin: 40px 0 50px 0;
 }
 
 h1 {
@@ -40,6 +40,36 @@ h1:hover {
 }
 #intro {
 	overflow: auto;
+	margin-top: 80px;
+}
+
+#intro .info {
+	padding: 0 15%;
+}
+.indent {
+	display: block;
+}
+
+#intro .info .center {
+	margin-top: 10%;
+}
+
+#on-broadway-poster {
+	float: left;
+	width: 400px;
+	height: auto;
+	margin-right: 25px;
+	display: block;
+}
+#mobile-on-broadway-poster {
+	display: none;
+	float: left;
+	width: 100%;
+	height: auto;
+	margin-right: 0;
+}
+.fancybox-skin {
+	padding: 0 !important;
 }
 
 a {
@@ -71,6 +101,7 @@ blockquote cite:before {
 section {
 	margin: 0;
 	padding: 0;
+	overflow: hidden;
 }
 
 .center {
@@ -89,16 +120,39 @@ section {
 	margin: 80px 0;
 }
 
+@media screen and (min-width: 1300px) {
+	#on-broadway-poster {
+		margin-left: 20%;
+	}
+}
+
 @media screen and (max-width: 1000px) {
 	.center {
 		width: 100%;
 	}
 	h1,
-	#intro,
+	#intro .info,
 	.artist {
 		padding: 0 30px;
 	}
 
+	#intro {
+		margin-top: 0;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+	#intro .info {
+		float: left;
+		margin: 15px 0;
+	}
+	#lightbox-poster {
+		display: none;
+	}
+	#mobile-on-broadway-poster {
+		display: block;
+	}
 }
 
 @media screen and (max-width: 700px) {
