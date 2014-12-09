@@ -13,7 +13,8 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://theproperty.gallery" />
 	<meta property="og:image" content="http://theproperty.gallery/images/property_logo.jpg" />
-	<meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA. 'On Broadway' Friday, December 12th - Sunday December 14th, 2014, 6pm - 11pm. The Property is pleased bring you the multi-media exhibition 'On Broadway', featuring the work of Jim Campbell, Jasper Fung, Clay Dean, Theresa Sterner and Benjamin Bergery." />
+	<meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA. 'On Broadway' Friday, December 12th - Sunday December 14th, 2014, 6pm - 11pm.
+	The Property is pleased bring you the multi-media exhibition 'On Broadway', featuring the work of Endia Beal, Benjamin Bergery, Jim Campbell, Jasper Fung, Clay Dean, Marcus Herse, Plastic Hand, and Theresa Sterner." />
 
 	<?php require_once 'mobile_detect.php'; $detect = new Mobile_Detect; ?>
 	<script>
@@ -216,13 +217,21 @@
 			<h2>Marcus Herse</h2>
 
 			<div class="caption">
-				<i>I promise</i>, 2014<br/>
+				<i>Training</i>, 2014<br/>
 				Hd video-loop, monitor, chairs<br/>
 				dimensions variable<br/>
 			</div>
 
 			<div class="bio">
-				<p>Marcus Herse is a Los Angeles based artist. Born in 1975 in Dinslaken, Germany, he studied painting at the Kunstakademie in D&uuml;sseldorf, where he received the Meistersch&uuml;ler Title in 2001 and the Akademiebrief in 2004. He was awarded a DAAD postgraduate grant and studied at the University of California, Los Angeles, in 2002 and 2003. He is a recipient of the dHCS Studio Stipend hosted by the Kunstverein D&uuml;sseldorf (2007 - 2009), and a fellowship artist of the Contemporary Collectors Orange County (2014). Recent solo shows include <em>Galleria</em> at Greene Exhibitions, Los Angeles (2013), <em>Almost ther</em> at Commonwealth &amp; Council, Los Angeles (2014), as well as an upcoming show at Ginerva Gambino in Cologne (November 2014). His work has been included i.a. in the exhibitions <em>Talking to Rocks</em>, Villa Romana, Florence, Italy (2010); <em>Love Letter to a Surrogate</em>, MUHKA, Antwerp, Belgium (2011); <em>Jendreiko fragt WAS NUN?</em>, Schmela Haus, Kunstsammlung NRW, Germany (2010); <em>Another Cats Show</em>, 356 Mission Los Angeles CA (2014); <em>Von Wanderern, Wilderern &amp; Dilettanten</em>, <em>dHCS Grant Exhibition</em>, and  <em>St&auml;dtische B&uuml;hne</em>, Kunstverein D&uuml;sseldorf, Germany (2007, 2009, 2013); <em>Without Kubrick...</em>, Lothringer 13 - St&auml;dtische Kunsthalle M&uuml;nchen, Germany (2009). Herse is represented by Greene Exhibitions in Los Angeles.</p>
+				<p>Marcus Herse is a Los Angeles based artist. Born in 1975 in Dinslaken, Germany, he studied painting at the Kunstakademie in D&uuml;sseldorf,
+					where he received the Meistersch&uuml;ler Title in 2001 and the Akademiebrief in 2004. He was awarded a DAAD postgraduate grant and studied at the
+					University of California, Los Angeles, in 2002 and 2003. He is a recipient of the dHCS Studio Stipend hosted by the Kunstverein D&uuml;sseldorf (2007 - 2009),
+					and a fellowship artist of the Contemporary Collectors Orange County (2014). Recent solo shows include Galleria at Greene Exhibitions, Los Angeles (2013),
+					Almost ther at Commonwealth & Council, Los Angeles (2014), Agent at Ginerva Gambino, Cologne (2014), and an upcoming Solo Show at Greene Exhibitions in
+					January 2015. His work has been included i.a. in the exhibitions Talking to Rocks, Villa Romana, Florence, Italy (2010); Love Letter to a Surrogate,
+					MUHKA, Antwerp, Belgium (2011); Jendreiko fragt WAS NUN?, Schmela Haus, Kunstsammlung NRW, Germany (2010); Another Cats Show, 356 Mission Los Angeles CA (2014);
+					Von Wanderern, Wilderern & Dilettanten, dHCS Grant Exhibition, and  St&auml;dtische B&uuml;hne, Kunstverein D&uuml;sseldorf, Germany (2007, 2009, 2013);
+					Without Kubrick..., Lothringer 13 - St&auml;dtische Kunsthalle M&uuml;nchen, Germany (2009). Herse is represented by Greene Exhibitions in Los Angeles and G&iacute;nerva Gambino in Cologne.</p>
 				<a href="http://marcusherse.com" target="_blank">marcusherse.com</a>
 			</div>
 		</div>
