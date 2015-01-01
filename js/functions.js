@@ -197,10 +197,10 @@ $(window).load(function()
 	}, 800);
 
 
-	videoResize();
+	//videoResize();
 });
 
 window.onresize = function(event) {
 	logoResize();
-	videoResize();
+	//videoResize();
 };

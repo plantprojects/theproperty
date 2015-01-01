@@ -11,8 +11,8 @@
 
 	<meta property="og:title" content="The Property: On Broadway" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://theproperty.gallery" />
-	<meta property="og:image" content="http://theproperty.gallery/images/property_logo.jpg" />
+	<meta property="og:url" content="http://theproperty.gallery/on-broadway" />
+	<meta property="og:image" content="http://theproperty.gallery/images/on-broadway/OnBroadwayPosterShare.jpg" />
 	<meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA. 'On Broadway' Friday, December 12th - Sunday December 14th, 2014, 6pm - 11pm.
 	The Property is pleased bring you the multi-media exhibition 'On Broadway', featuring the work of Endia Beal, Benjamin Bergery, Jim Campbell, Jasper Fung, Clay Dean, Marcus Herse, Plastic Hand, and Theresa Sterner." />
 
