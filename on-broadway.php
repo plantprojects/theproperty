@@ -53,7 +53,7 @@
 </section>
 
 <?php /*<img src="images/on-broadway/440broadway_inside_karate.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/?>
-<img src="images/on-broadway/endia-beal/office_scene_install.jpg" alt="Endia Beal: Office Scene installation view" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/endia-beal/office_scene_install.jpg" alt="Endia Beal: Office Scene installation view" width="100%" height="auto">
 <section id="endia-beal">
 
 	<div class="artist">
@@ -75,9 +75,9 @@
 </section>
 
 <?php /*<img src="images/on-broadway/440broadway_L1_L2_L3.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
-<img src="images/on-broadway/benjamin-bergery/french-kiss.jpg" alt="Benjamin Bergery: French Kiss" width="100%" height="auto">
-<img src="images/on-broadway/benjamin-bergery/big-french-kiss-exterior.jpg" alt="Benjamin Bergery: Big French Kiss, exterior view" width="100%" height="auto">
-<img src="images/on-broadway/benjamin-bergery/the-bed.jpg" alt="Benjamin Bergery: The Bed installation view" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/benjamin-bergery/french-kiss.jpg" alt="Benjamin Bergery: French Kiss" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/benjamin-bergery/big-french-kiss-exterior.jpg" alt="Benjamin Bergery: Big French Kiss, exterior view" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/benjamin-bergery/the-bed.jpg" alt="Benjamin Bergery: The Bed installation view" width="100%" height="auto">
 
 <section id="benjamin-bergery">
 
@@ -105,7 +105,7 @@
 
 <?php /*<img src="images/on-broadway/440broadway_Karate_looking_in_close.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/?>
 <?php /*<img src="images/on-broadway/jim-campbell/glimpse-install.jpg" alt="Jim Campbell: Glimpse, installation view" width="100%" height="auto">*/ ?>
-<img src="images/on-broadway/jim-campbell/glimpse.jpg" alt="Jim Campbell: Glimpse" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/jim-campbell/glimpse.jpg" alt="Jim Campbell: Glimpse" width="100%" height="auto">
 
 <section id="jim-campbell">
 
@@ -137,7 +137,7 @@
 </section>
 
 <?php /*<img src="images/on-broadway/440broadway_R1_R2.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
-<img src="images/on-broadway/clay-dean/not-west-of-western-scientology.jpg" alt="Clay Dean: Not West of Western install" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/clay-dean/not-west-of-western-scientology.jpg" alt="Clay Dean: Not West of Western install" width="100%" height="auto">
 
 <section id="clay-dean">
 
@@ -166,7 +166,7 @@
 </section>
 
 <?php /*<img src="images/on-broadway/440broadway_R1_looking_in_far_crop.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
-<img src="images/on-broadway/jasper-fung/many-small-people.jpg" alt="Jasper Fung: Many small people" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/jasper-fung/many-small-people.jpg" alt="Jasper Fung: Many small people" width="100%" height="auto">
 
 <section id="jasper-fung">
 
@@ -194,7 +194,7 @@
 </section>
 
 <?php /*<img src="images/on-broadway/mall_elevators.png" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
-<img src="images/on-broadway/marcus-herse/training.jpg" alt="Marcus Herse: Training" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/marcus-herse/training.jpg" alt="Marcus Herse: Training" width="100%" height="auto">
 
 <section id="marcus-herse">
 
@@ -225,7 +225,7 @@
 </section>
 
 <?php /*<img src="images/on-broadway/440broadway_R1_w_people.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
-<img src="images/on-broadway/plastic-hand/projection-install.jpg" alt="Plastic Hand" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/plastic-hand/projection-install.jpg" alt="Plastic Hand" width="100%" height="auto">
 
 <section id="plastic-hand">
 
@@ -249,8 +249,8 @@
 
 
 <?php /*<img src="images/on-broadway/440broadway_07_L5_lawyers_office.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
-<img src="images/on-broadway/theresa-sterner/a-collection-of-banished-spaces-2.jpg" alt="Theresa Sterner: A collection of banished spaces" width="100%" height="auto">
-<img src="images/on-broadway/theresa-sterner/a-collection-of-banished-spaces-1.jpg" alt="Theresa Sterner: A collection of banished spaces" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/theresa-sterner/a-collection-of-banished-spaces-2.jpg" alt="Theresa Sterner: A collection of banished spaces" width="100%" height="auto">
+<img class="lazy" data-original="images/on-broadway/theresa-sterner/a-collection-of-banished-spaces-1.jpg" alt="Theresa Sterner: A collection of banished spaces" width="100%" height="auto">
 
 <section id="theresa-sterner">
 
@@ -287,10 +287,19 @@
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="lib/fancybox/jquery.fancybox.js"></script>
-	<!--<script src="lib/jquery.easing.1.3.js"></script>-->
-	<!--<script src="lib/modernizr.custom.js"></script>-->
+	<script src="lib/jquery.easing.1.3.js"></script>
+	<script src="lib/jquery.lazyload.min.js"></script>
+	<script>
+		$(document).ready(function () {
+			$("img.lazy")
+				.lazyload({
+					event: "lazyload",
+					effect: "fadeIn",
+					effectspeed: 2000
+				})
+				.trigger("lazyload");
+		});
 
-<script>
 	$(function()
 	{
 		$(".fancybox").fancybox();
