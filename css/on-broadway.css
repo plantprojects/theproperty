@@ -107,8 +107,14 @@ section {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	clear: both;
+
 }
+
+.artist {
+	clear: both;
+	padding-top: 5px;
+}
+
 
 .center {
 	width: 700px;
@@ -192,9 +198,12 @@ section {
 		width: 100%;
 	}
 	h1,
-	#intro .info,
-	.artist {
+	#intro .info {
 		padding: 0 30px;
+	}
+
+	.artist {
+		padding: 5px 30px;
 	}
 
 	#intro {
