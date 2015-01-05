@@ -127,12 +127,12 @@ if ( $detect->isMobile() )
 
 	$(function()
 	{
-		videoResize();
+		//videoResize();
 	});
 
 	$(window).resize(function()
 	{
-		videoResize();
+		//videoResize();
 	});
 
 	/*$('#poster').click(function()
