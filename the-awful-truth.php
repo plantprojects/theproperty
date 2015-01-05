@@ -66,15 +66,9 @@ if ( $detect->isMobile() )
 
 	</ul>
 </section> */ ?>
-<div id="footer">
-	<ul id="footer-nav">
-		<li><a class="active" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/open-house">AUG 2014</a></li>
-		<li><a href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>/4-painters">OCT 2014</a></li>
-	</ul>
+<?php $showDate = 'nov'; ?>
+<?php include 'footer.php'; ?>
 
-	<a class="home" href="<?php echo "http://" . $_SERVER['SERVER_NAME'] ?>"><div class="small-logo"></div></a>
-
-</div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="lib/jquery.easing.1.3.js"></script>

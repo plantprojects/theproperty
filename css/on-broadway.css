@@ -40,7 +40,7 @@ h1:hover {
 }
 #intro {
 	overflow: auto;
-	margin-top: 80px;
+	margin: 80px 0;
 }
 
 #intro .info {
@@ -51,7 +51,7 @@ h1:hover {
 }
 
 #intro .info .center {
-	margin-top: 10%;
+	margin-top: 4%;
 }
 
 #on-broadway-poster {
@@ -71,6 +71,11 @@ h1:hover {
 .fancybox-skin {
 	padding: 0 !important;
 }
+
+img:not(.fancybox) {
+	float: left;
+}
+
 
 a {
 	color:black;
@@ -102,11 +107,16 @@ section {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	clear: both;
 }
 
 .center {
 	width: 700px;
-	margin: 8% auto;
+	margin: 10% auto;
+}
+
+.artist .center {
+	margin: 20px auto;
 }
 
 .caption {
@@ -118,6 +128,57 @@ section {
 .artwork,
 .bio {
 	margin: 80px 0;
+}
+
+.small-logo {
+	height: 94px;
+	width: 100px;
+	background: url(../images/property_logo_sm.jpg) no-repeat top center;
+	background-size: 100px 94px;
+	cursor: pointer;
+	margin: 0 auto;
+	padding-bottom: 15px;
+	position: absolute;
+	top: 50px;
+	left: 0;
+	right: 0;
+}
+#footer {
+	margin-top: 80px;
+	clear: both;
+	position: relative;
+}
+#footer-nav {
+	padding: 0;
+	width:  285px;
+	margin: 20px auto;
+	list-style: none;
+}
+#footer-nav li {
+	float: left;
+	margin: 0 20px 0 0;
+}
+#footer-nav li:last-child {
+	margin-right: 0;
+}
+#footer-nav a {
+	color: black;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+#footer-nav .active {
+	color: #f05424;
+}
+#footer-nav a:hover {
+	color: #a9dde8;
+}
+#footer .small-logo,
+#footer .small-logo:hover {
+	background-size: 50px 47px;
+}
+.computer .small-logo:hover {
+	background: url(../images/property_logo_sm_hover.jpg) no-repeat top center;
 }
 
 @media screen and (min-width: 1300px) {

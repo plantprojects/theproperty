@@ -38,37 +38,13 @@
 
 			<h2>On Broadway</h2>
 
-			<ul>
-				<li>
-					<b>When:</b>
-					<p>Friday, December 12th, 2014, 6pm - 11pm</br>
-					Saturday, December 13th, 2014, 6pm - 11pm,</br>
-					Sunday, December 14th, 2014, 6pm - 10pm<br/><br>
-						<span class="indent">Saturday Musical Performances:</span>
-						<span class="indent"><a href="http://oxen-label.com/releases/remainderless/" target="_blank">Remainderless</a>, 9pm</span>
-						<span class="indent"><a href="https://soundcloud.com/plastic-hand-1" target="_blank">Plastic Hand</a>, 10pm</span>
-
-					</p>
-				</li>
-
-				<li>
-					<b>Where:</b>
-					<p>440 Broadway, Mezzanine Level<br/>
-					Los Angeles, California</p>
-				</li>
-
-				<li><b>Contact:</b>
-					<p>Sarah Bostwick<br/>
-					<a href='&#109;&#97;il&#116;o&#58;thep%72%&#54;Fpe&#37;72&#37;74%79&#37;2Egalle%&#55;2&#121;%2Ela&#64;&#103;%6D%61%69&#108;%2E%63om'>&#116;h&#101;propert&#121;&#46;g&#97;l&#108;e&#114;y&#46;la&#64;gmail&#46;c&#111;m</a></p>
-				</li>
-			</ul>
-
 			<div id="pr" class="center">
-				<b>For Immediate Release:</b><br/>
-				<p>The Property is pleased to announce the multi-media exhibition <i>On Broadway</i>, featuring the work of <a href="#endia-beal">Endia Beal</a>, <a href="#benjamin-bergery">Benjamin Bergery</a>, <a href="#jim-campbell">Jim Campbell</a>, <a href="#clay-dean">Clay Dean</a>, <a href="#jasper-fung">Jasper Fung</a>, <a href="#marcus-herse">Marcus Herse</a>, <a href="#plastic-hand">Plastic Hand</a>, and <a href="#theresa-sterner">Theresa Sterner</a>.
-					The event will take place the nights of December 12th, 13th and 14th, from 6pm to 11pm, with special performances on December 13th by Remainderless at 9pm and Plastic Hand at 10pm.</p>
-				<p><i>On Broadway</i> is a presentation of projected, lit and amplified works housed in each of the storefronts of the 440 Broadway arcade mezzanine.  Viewers can expect an experience that falls somewhere in between after-hours museum browsing and window shopping, glimpsing each of the works through a glass wall with the option of entering each store-cum-gallery space for a closer look and listen.</p>
-				<p>The exhibition is free and open to the public and there is $5.50 parking available above the venue, cash only. The Property would like to thank SRG Group, Parallel Acquisitions, Capital Insight, Bridge Real Estate, Brian Abdi of Bridge Real Estate, James Plannette, and <a target="_blank" href="http://civiccenterstudios.com/">Civic Center Studios</a> for their generous support.</p>
+				<p>The Property hosted the multi-media exhibition <i>On Broadway</i>, featuring the work of <a href="#endia-beal">Endia Beal</a>, <a href="#benjamin-bergery">Benjamin Bergery</a>,
+					<a href="#jim-campbell">Jim Campbell</a>, <a href="#clay-dean">Clay Dean</a>, <a href="#jasper-fung">Jasper Fung</a>, <a href="#marcus-herse">Marcus Herse</a>,
+					<a href="#plastic-hand">Plastic Hand</a>, and <a href="#theresa-sterner">Theresa Sterner</a> the nights of December 12th, 13th and 14th, 2014, with special
+					musical performances on December 13th by Remainderless and Plastic Hand.</p>
+				<p><i>On Broadway</i> was a presentation of projected, lit and amplified works housed in each of the storefronts of the 440 Broadway arcade mezzanine.  Viewers can expect an experience that falls somewhere in between after-hours museum browsing and window shopping, glimpsing each of the works through a glass wall with the option of entering each store-cum-gallery space for a closer look and listen.</p>
+				<p>The Property would like to thank SRG Group, Parallel Acquisitions, Capital Insight, Bridge Real Estate, Brian Abdi of Bridge Real Estate, James Plannette, and <a target="_blank" href="http://civiccenterstudios.com/">Civic Center Studios</a> for their generous support.</p>
 			</div>
 
 		</div>
@@ -76,8 +52,8 @@
 
 </section>
 
-<img src="images/on-broadway/440broadway_inside_karate.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
-
+<?php /*<img src="images/on-broadway/440broadway_inside_karate.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/?>
+<img src="images/on-broadway/endia-beal/office_scene_install.jpg" alt="Endia Beal: Office Scene installation view" width="100%" height="auto">
 <section id="endia-beal">
 
 	<div class="artist">
@@ -98,7 +74,10 @@
 	</div>
 </section>
 
-<img src="images/on-broadway/440broadway_L1_L2_L3.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+<?php /*<img src="images/on-broadway/440broadway_L1_L2_L3.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
+<img src="images/on-broadway/benjamin-bergery/french-kiss.jpg" alt="Benjamin Bergery: French Kiss" width="100%" height="auto">
+<img src="images/on-broadway/benjamin-bergery/big-french-kiss-exterior.jpg" alt="Benjamin Bergery: Big French Kiss, exterior view" width="100%" height="auto">
+<img src="images/on-broadway/benjamin-bergery/the-bed.jpg" alt="Benjamin Bergery: The Bed installation view" width="100%" height="auto">
 
 <section id="benjamin-bergery">
 
@@ -108,6 +87,8 @@
 
 			<div class="caption">
 				<i>French Kiss</i>, 2014<br/>
+				<i>Big French Kiss</i>, 2014<br/>
+				<i>The Bed</i>, 2014<br/>
 				Fresnel lights, custom electronics by Jim Campbell
 
 			</div>
@@ -122,7 +103,9 @@
 	</div>
 </section>
 
-<img src="images/on-broadway/440broadway_Karate_looking_in_close.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+<?php /*<img src="images/on-broadway/440broadway_Karate_looking_in_close.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/?>
+<?php /*<img src="images/on-broadway/jim-campbell/glimpse-install.jpg" alt="Jim Campbell: Glimpse, installation view" width="100%" height="auto">*/ ?>
+<img src="images/on-broadway/jim-campbell/glimpse.jpg" alt="Jim Campbell: Glimpse" width="100%" height="auto">
 
 <section id="jim-campbell">
 
@@ -153,7 +136,8 @@
 	</div>
 </section>
 
-<img src="images/on-broadway/440broadway_R1_R2.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+<?php /*<img src="images/on-broadway/440broadway_R1_R2.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
+<img src="images/on-broadway/clay-dean/not-west-of-western-scientology.jpg" alt="Clay Dean: Not West of Western install" width="100%" height="auto">
 
 <section id="clay-dean">
 
@@ -181,7 +165,8 @@
 	</div>
 </section>
 
-<img src="images/on-broadway/440broadway_R1_looking_in_far_crop.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+<?php /*<img src="images/on-broadway/440broadway_R1_looking_in_far_crop.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
+<img src="images/on-broadway/jasper-fung/many-small-people.jpg" alt="Jasper Fung: Many small people" width="100%" height="auto">
 
 <section id="jasper-fung">
 
@@ -208,7 +193,8 @@
 	</div>
 </section>
 
-<img src="images/on-broadway/mall_elevators.png" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+<?php /*<img src="images/on-broadway/mall_elevators.png" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
+<img src="images/on-broadway/marcus-herse/training.jpg" alt="Marcus Herse: Training" width="100%" height="auto">
 
 <section id="marcus-herse">
 
@@ -238,7 +224,8 @@
 	</div>
 </section>
 
-<img src="images/on-broadway/440broadway_R1_w_people.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+<?php /*<img src="images/on-broadway/440broadway_R1_w_people.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
+<img src="images/on-broadway/plastic-hand/projection-install.jpg" alt="Plastic Hand" width="100%" height="auto">
 
 <section id="plastic-hand">
 
@@ -261,7 +248,9 @@
 </section>
 
 
-<img src="images/on-broadway/440broadway_07_L5_lawyers_office.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">
+<?php /*<img src="images/on-broadway/440broadway_07_L5_lawyers_office.jpg" alt="The Property, 440 Broadway, Los Angeles" width="100%" height="auto">*/ ?>
+<img src="images/on-broadway/theresa-sterner/a-collection-of-banished-spaces-2.jpg" alt="Theresa Sterner: A collection of banished spaces" width="100%" height="auto">
+<img src="images/on-broadway/theresa-sterner/a-collection-of-banished-spaces-1.jpg" alt="Theresa Sterner: A collection of banished spaces" width="100%" height="auto">
 
 <section id="theresa-sterner">
 
@@ -290,7 +279,8 @@
 
 
 
-
+	<?php $showDate = 'dec'; ?>
+	<?php include 'footer.php'; ?>
 
 
 	
