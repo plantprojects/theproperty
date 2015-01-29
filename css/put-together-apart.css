@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:700);
+
+#poster {
+	color: #000;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+#poster img {
+	width: 600px;
+	height: auto;
+	margin: 60px auto 30px;
+	display: block;
+}
+
+.below-fold {
+	overflow: auto;
+	position: relative;
+	height: 100%;
+}
+
+.below-fold .center {
+	margin: 0 auto 100px;
+	font-size: 20px;
+	text-align: center
+}
+@media (max-width: 600px) {
+	.below-fold .center {
+		font-size: 12px;
+		margin: 0 auto 50px;
+	}
+	#poster img {
+		width: 100%;
+		margin: 0 auto 30px;
+		display: block;
+	}
+}
+@media (max-width: 500px) {
+	.below-fold .center {
+		font-size: 10px;
+	}
+
+}
