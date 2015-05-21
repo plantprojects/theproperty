@@ -120,10 +120,27 @@ video { width: 100%; height: auto;}
 	bottom: 0;
 	overflow: hidden;
 	z-index: 2;
-	background: url(../images/put-it-together-take-it-apart/chris-oliveria-poster.jpg) no-repeat #fff;
+	cursor: pointer;
+    background: url(../images/sculpture-drawing/marty-schnapf.jpg) center no-repeat;
+    background-size: cover;
+}
+#current-show.poster-1 {
+	background: url(../images/i-think-i-see/Justin1.jpg) no-repeat #fff;
 	background-position: center;
 	background-size: contain;
-	cursor: pointer;
+	opacity: 1;
+}
+#current-show.poster-2 {
+	background: url(../images/i-think-i-see/Dustin1.jpg) no-repeat #fff;
+	background-position: center;
+	background-size: contain;
+	opacity: 1;
+}
+#current-show.poster-3 {
+	background: url(../images/i-think-i-see/Adam1.jpg) no-repeat #fff;
+	background-position: center;
+	background-size: contain;
+	opacity: 1;
 }
 #current-show .image-caption {
 	position: absolute;
@@ -256,7 +273,9 @@ video { width: 100%; height: auto;}
 .computer #info .show-list a:hover {
 	color: #a9dde8;
 }
-
+#info #mc_embed_signup form {
+	padding-left: 0 !important;
+}
 
 /*
  * PAST PROJECTS
@@ -299,13 +318,14 @@ video { width: 100%; height: auto;}
 }
 #footer-nav {
 	padding: 0;
-	width:  285px;
+	width:  25em;/*285px;*/
 	margin: 20px auto;
 	list-style: none;
 }
 #footer-nav li {
-	float: left;
-	margin-right: 20px;
+	display: inline-block;
+	margin-right: 1em;
+	width: 2em;
 }
 #footer-nav li:last-child {
 	margin-right: 0;
@@ -386,5 +406,27 @@ video { width: 100%; height: auto;}
 	}
 	.caption {
 		font-size:10px;
+	}
+	#footer-nav a {
+		font-size: 9px;
+	}
+	#footer-nav {
+	    width: 9.5em;
+  	}
+  	#footer-nav li {
+		margin-right: .8em;
+		margin-bottom: 1em;
+		width: 1.5em;
+		line-height: .8;
+	}
+	#footer-nav li:nth-child(4),
+	#footer-nav li:last-child {
+		margin-right: 0;
+	}
+	
+	
+	#footer .small-logo {
+		position: relative;
+		top: 0;
 	}
 }

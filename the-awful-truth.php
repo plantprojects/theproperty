@@ -10,9 +10,9 @@
 
 	<meta property="og:title" content="The Property - The Awful Truth" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://theproperty.gallery/past/the-awful-truth" />
-	<meta property="og:image" content="http://theproperty.gallery/images/property_logo.jpg" />
-	<meta property="og:description" content="November, 2014, The Property is pleased to announce the opening of The Awful Truth, a solo exhibition by Los Angeles based sculptor and installation artist, Jon-Paul Villegas." />
+	<meta property="og:url" content="http://theproperty.gallery/the-awful-truth" />
+	<meta property="og:image" content="http://theproperty.gallery/images/the-awful-truth/villegas_poster_theproperty.jpg" />
+	<meta property="og:description" content="November, 2014, The Awful Truth, a solo exhibition by Los Angeles based sculptor and installation artist, Jon-Paul Villegas." />
 
 
 
@@ -42,30 +42,78 @@
 
 <?php
 
-$size = 'large';
+$size;
 if ( $detect->isMobile() )
 {
-	$size = 'small';
+	$size = 'mobile/';
 }
 ?>
 
-<?php /* <section id="documentation">
+<section id="documentation">
 	<ul>
 		<li>
-			<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/17-Jon-PaulVillegas.jpg" width="640" height="960">
-			<div class="caption">Jon-Paul Villegas</div>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_01.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li class="vert">
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_02.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
 		</li>
 		<li>
-			<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/18-Jon-PaulVillegas.jpg" width="640" height="960">
-			<div class="caption">Jon-Paul Villegas</div>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_03.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
 		</li>
 		<li>
-			<img class="lazy" data-original="images/open-house/<?php  echo $size ?>/19-Jon-PaulVillegas.jpg" width="640" height="427">
-			<div class="caption">Jon-Paul Villegas</div>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_04.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_05.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li class="vert">
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_06.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_07.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_08.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li class="vert">
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_09.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_10.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_11.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_11a.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_12.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_13.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_14.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_15.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_16.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_17.jpg" width="640" height="960" alt="Jon-Paul Villegas, 'The Awful Truth'">
+		</li>
+		<li>
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_18.jpg" width="640" height="960">
+		</li>
+		<li class="vert">
+			<img class="lazy" data-original="images/the-awful-truth/<?php  echo $size ?>jon-paul_villegas_19.jpg" width="640" height="960">
 		</li>
 
 	</ul>
-</section> */ ?>
+</section>
 <?php $showDate = 'nov'; ?>
 <?php include 'footer.php'; ?>
 
@@ -75,12 +123,7 @@ if ( $detect->isMobile() )
 <script src="lib/jquery.lazyload.min.js"></script>
 
 <script>
-	// if documentation is at top stop video
-	/*var distance = $('#documentation').offset().top,
-		$window = $(window);*/
-
-
-	/*$(document).ready(function () {
+	$(document).ready(function () {
 		$("img.lazy")
 			.lazyload({
 				event: "lazyload",
@@ -94,7 +137,7 @@ if ( $detect->isMobile() )
 			$('.caption').css('opacity', 1);
 		});
 
-	});*/
+	});
 
 	// Background image FIT WINDOW
 	function videoResize()
@@ -135,14 +178,14 @@ if ( $detect->isMobile() )
 		//videoResize();
 	});
 
-	/*$('#poster').click(function()
+	$('#poster').click(function()
 	{
 
 		$('html, body').delay(500).animate({
 			scrollTop: $("#documentation").offset().top
 		}, 500);
 
-	});*/
+	});
 </script>
 
 </body>

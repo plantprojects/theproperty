@@ -13,7 +13,8 @@ var animation_complete = false,
 	vidHeight = 1140,
 	vidHeightRatio = vidHeight/vidWidth,
 	vidWidthRatio = vidWidth/vidHeight,
-	start_logo_resize = true;
+	start_logo_resize = true,
+	posterStart = 0;
 
 // Desktop only Stop/Start video and hover effects
 if ( !isMobile )
@@ -152,6 +153,7 @@ $(window).load(function()
 
 
 		start_logo_resize = false;
+		posterStart = 1;
 
 	});
 
@@ -197,10 +199,10 @@ $(window).load(function()
 	}, 800);
 
 
-	//videoResize();
+	videoResize();
 });
 
 window.onresize = function(event) {
 	logoResize();
-	//videoResize();
+	videoResize();
 };

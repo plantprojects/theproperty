@@ -1,0 +1,24 @@
+.swiper-slide {
+	margin-bottom: 40px;
+}
+.swiper-slide img {
+	margin: 0 auto;
+	display: block;
+}
+#documentation p {
+	width: 500px;
+	font-size: 1em;
+	line-height: 1.5em;
+	margin: 20px auto;
+}
+.lazy {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+	#documentation p {
+		width: 90%;
+		margin: 20px 5%;
+		font-size: .8em;
+	}
+}

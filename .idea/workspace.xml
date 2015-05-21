@@ -1,7 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5a08321-3231-405c-bbda-e683c1a582a8" name="Default" comment="" />
+    <list default="true" id="c5a08321-3231-405c-bbda-e683c1a582a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/06_R3_lil_office.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/06_R3_lil_office.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/07_L5_lawyers_office.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/07_L5_lawyers_office.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/fourpainters/440broadway_inside_karate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/Adam.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/Adam1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/Archive.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/on-broadway/Archive.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/Dustin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/Dustin1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/Justin-fb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/Justin1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/Karate_looking_in_close.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/Karate_looking_in_close.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/L1_L2_L3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/L1_L2_L3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/R1_R2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/R1_R2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/R1_looking_in_far.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/R1_looking_in_far.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/R1_looking_in_far_crop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/R1_looking_in_far_crop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/R1_open_door.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/R1_open_door.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/R1_w_people.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/R1_w_people.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/adam-novak-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/adam-novak-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/adam-novak-steve-drives.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/becky-kolsrud.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/dustin-metz-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/dustin-metz-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/dustin-metz-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/dustin-metz-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/dustin-metz-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/favicon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-03-emily-sevier.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-05-liz-walsh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-06-shane-aslan-selzer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-07-emily-sevier.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-08-liz-walsh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-09-emily-sevier.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-10-emily-sevier.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-11-shane-aslan-selzer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-12-liz-walsh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-14-liz-walsh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/documentation/fhm-15-liz-walsh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/forests-hills-and-the-moon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/inside_karate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/inside_karate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_11a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_11a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/jon-paul_villegas_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/the-awful-truth/mobile/jon-paul_villegas_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/justin-john-greene-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/i-think-i-see/documentation/justin-john-greene-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/forests-hills-and-the-moon/liz-walsh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/mall_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/mall_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/mobile/marty-schnapf-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf-lg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sculpture-drawing/marty-schnapf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/the_Property_Brian_and_JP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/the_Property_Brian_and_JP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/images/on-broadway/larger/the_Property_Brian_and_JP_color.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/larger/the_Property_Brian_and_JP_color.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/.htpasswd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/On_Broadway_email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forests-hills-and-the-moon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/i-think-i-see.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i-think-i-see.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b-day/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preview/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sculpture-drawing-sculpture-drawings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sculpture-drawing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/swiper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/swiper.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/the-awful-truth/villegas_poster_theproperty.jpg" afterPath="$PROJECT_DIR$/images/the-awful-truth/villegas_poster_theproperty.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/functions.js" afterPath="$PROJECT_DIR$/js/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/on-broadway.css" afterPath="$PROJECT_DIR$/css/on-broadway.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/on-broadway.php" afterPath="$PROJECT_DIR$/on-broadway.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/the-awful-truth.css" afterPath="$PROJECT_DIR$/css/the-awful-truth.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/the-awful-truth.php" afterPath="$PROJECT_DIR$/the-awful-truth.php" />
+    </list>
+    <list id="f1023f82-d52c-4f99-9cfc-54969ae22f74" name="New changelist" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="the property.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,41 +175,87 @@
     <favorites_list name="the property" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="sculpture-drawing-sculpture-drawings.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sculpture-drawing-sculpture-drawings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4019607" vertical-offset="1278" max-vertical-offset="1890">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sculpture-drawing.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/sculpture-drawing.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="the-awful-truth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the-awful-truth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-80.791664" vertical-offset="161" max-vertical-offset="2955">
+              <caret line="140" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/mobile_detect.php" />
-        <option value="$PROJECT_DIR$/lib/jquery.easing.1.3.js" />
         <option value="$PROJECT_DIR$/js/functions.js" />
+        <option value="$PROJECT_DIR$/open-house.php" />
+        <option value="$PROJECT_DIR$/4-painters.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/the-awful-truth.php" />
+        <option value="$PROJECT_DIR$/css/the-awful-truth.css" />
+        <option value="$PROJECT_DIR$/on-broadway.php" />
+        <option value="$PROJECT_DIR$/css/on-broadway.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/put-together-apart.css" />
+        <option value="$PROJECT_DIR$/put-it-together-take-it-apart.php" />
+        <option value="$PROJECT_DIR$/css/artist-practice.css" />
+        <option value="$PROJECT_DIR$/artist-practice.php" />
+        <option value="$PROJECT_DIR$/css/sculpture-drawing.css" />
+        <option value="$PROJECT_DIR$/sculpture-drawing-sculpture-drawings.php" />
       </list>
     </option>
   </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="252" />
-    <option name="y" value="22" />
-    <option name="width" value="1188" />
-    <option name="height" value="804" />
+    <option name="x" value="468" />
+    <option name="y" value="23" />
+    <option name="width" value="1452" />
+    <option name="height" value="1103" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -77,6 +274,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -97,7 +295,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,13 +306,23 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/images/sculpture-drawing/mobile" />
+      <recent name="$PROJECT_DIR$/images/sculpture-drawing" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/put-it-together-take-it-apart" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/images/put-it-together-take-it-apart/large" />
+      <recent name="$PROJECT_DIR$/images/put-it-together-take-it-apart" />
+      <recent name="$PROJECT_DIR$/images/on-broadway/benjamin-bergery" />
+      <recent name="$PROJECT_DIR$/images/on-broadway" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunManager">
@@ -126,63 +333,203 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c5a08321-3231-405c-bbda-e683c1a582a8" name="Default" comment="" />
+      <changelist id="f1023f82-d52c-4f99-9cfc-54969ae22f74" name="New changelist" comment="" />
       <created>1407630294992</created>
       <option name="number" value="Default" />
       <updated>1407630294992</updated>
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1414292963821</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1414292963821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="past shows">
+      <created>1414354696815</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1414354696815</updated>
+    </task>
+    <task id="LOCAL-00003" summary="past shows">
+      <created>1414462051536</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1414462051536</updated>
+    </task>
+    <task id="LOCAL-00004" summary="on broadway images">
+      <created>1414549581003</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1414549581003</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new smaller images">
+      <created>1414700312843</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1414700312843</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new smaller images and changed on-broadway to index.php">
+      <created>1414701411256</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1414701411256</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new smaller images and changed on-broadway to index.php">
+      <created>1414952420620</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1414952420620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new smaller images and updated on-broadway.php text">
+      <created>1414999675192</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1414999675192</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jp's show info">
+      <created>1415488485683</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1415488485683</updated>
+    </task>
+    <task id="LOCAL-00010" summary="jp's show info">
+      <created>1415489124582</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1415489124582</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jp's show info">
+      <created>1417484102758</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1417484102758</updated>
+    </task>
+    <task id="LOCAL-00012" summary="on broadway updates">
+      <created>1417714092300</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1417714092301</updated>
+    </task>
+    <task id="LOCAL-00013" summary="on broadway updates">
+      <created>1418016883611</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1418016883611</updated>
+    </task>
+    <task id="LOCAL-00014" summary="on broadway updates and email">
+      <created>1418096329330</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1418096329330</updated>
+    </task>
+    <task id="LOCAL-00015" summary="on broadway updates and email">
+      <created>1418096950979</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1418096950979</updated>
+    </task>
+    <task id="LOCAL-00016" summary="chris oliveria exhibition">
+      <created>1420145953267</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1420145953267</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added photos of on-broadway exhibition and footer include">
+      <created>1420446211406</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1420446211406</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added photos of on-broadway exhibition and footer include">
+      <created>1420446443037</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1420446443037</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added photos of on-broadway exhibition and footer include">
+      <created>1420446550560</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1420446550560</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added lazy load to on broadway page">
+      <created>1420447345087</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1420447345087</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added lazy load to on broadway page">
+      <created>1420447754175</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1420447754175</updated>
+    </task>
+    <task id="LOCAL-00022" summary="on broadway fixed scroll to point">
+      <created>1420448553807</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1420448553807</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added chris and clay's exhibitions">
+      <created>1422514852300</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1422514852300</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="252" y="22" width="1188" height="804" extended-state="0" />
+    <frame x="468" y="23" width="1452" height="1103" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3272543" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4517544" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15298885" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32912233" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2452007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960381" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32765958" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26595744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23816568" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -197,226 +544,65 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="updates" />
+    <MESSAGE value="past shows" />
+    <MESSAGE value="on broadway images" />
+    <MESSAGE value="new smaller images" />
+    <MESSAGE value="new smaller images and changed on-broadway to index.php" />
+    <MESSAGE value="new smaller images and updated on-broadway.php text" />
+    <MESSAGE value="jp's show info" />
+    <MESSAGE value="on broadway updates" />
+    <MESSAGE value="on broadway updates and email" />
+    <MESSAGE value="chris oliveria exhibition" />
+    <MESSAGE value="added photos of on-broadway exhibition and footer include" />
+    <MESSAGE value="added lazy load to on broadway page" />
+    <MESSAGE value="on broadway fixed scroll to point" />
+    <MESSAGE value="added chris and clay's exhibitions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added chris and clay's exhibitions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/4-painters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2333" max-vertical-offset="3180">
-          <caret line="196" column="1" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1305">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/4-painters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1904" max-vertical-offset="3180">
-          <caret line="155" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/4-painters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="1155">
-          <caret line="57" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/4-painters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="51" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2220">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
+    <entry file="file://$PROJECT_DIR$/4-painters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="712" max-vertical-offset="3285">
-          <caret line="49" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="3150">
-          <caret line="70" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="51" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="712" max-vertical-offset="3285">
-          <caret line="49" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="3150">
-          <caret line="70" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="1050">
-          <caret line="49" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2160" max-vertical-offset="2790">
-          <caret line="144" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="877" max-vertical-offset="1740">
-          <caret line="101" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <caret line="54" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2610">
-          <caret line="12" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.easing.1.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2175" max-vertical-offset="3150">
-          <caret line="145" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1545">
-          <caret line="8" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <caret line="54" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2610">
-          <caret line="12" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.easing.1.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2175" max-vertical-offset="3150">
-          <caret line="145" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1545">
-          <caret line="8" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <caret line="54" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="2610">
-          <caret line="121" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.easing.1.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="3150">
-          <caret line="145" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1545">
-          <caret line="8" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2102" max-vertical-offset="2865">
-          <caret line="155" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="775" max-vertical-offset="1620">
-          <caret line="99" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile_detect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17959" max-vertical-offset="18795">
-          <caret line="1247" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2220">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -430,29 +616,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="2865">
-          <caret line="11" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="775" max-vertical-offset="1620">
-          <caret line="99" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile_detect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17959" max-vertical-offset="18795">
-          <caret line="1247" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/open_house.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -461,14 +624,6 @@
     <entry file="file://$PROJECT_DIR$/images/property_logo-old.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="861" max-vertical-offset="2475">
-          <caret line="82" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/open_house.png">
@@ -498,60 +653,243 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile_detect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17959" max-vertical-offset="18795">
-          <caret line="1247" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/modernizr.custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="764">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/property_logo-old.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/property_logo_hover.jpg">
+    <entry file="file://$PROJECT_DIR$/css/four-painters.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18320611" vertical-offset="780" max-vertical-offset="1770">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/open-house/open_house.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.easing.1.3.js">
+    <entry file="file://$PROJECT_DIR$/css/_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="3150">
-          <caret line="145" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="3180">
+          <caret line="133" column="1" selection-start-line="123" selection-start-column="0" selection-end-line="133" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/open-house.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7480916" vertical-offset="155" max-vertical-offset="930">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.045592707" vertical-offset="0" max-vertical-offset="658">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/images/on-broadway/06_R3_lil_office.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/css/on-broadway.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15677321" vertical-offset="1142" max-vertical-offset="1875">
+          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preview/on-broadway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40916273" vertical-offset="3311" max-vertical-offset="3945">
+          <caret line="238" column="11" selection-start-line="235" selection-start-column="8" selection-end-line="238" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fancybox/jquery.fancybox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.477749" vertical-offset="3421" max-vertical-offset="4185">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/On_Broadway_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021186441" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/on-broadway-email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="6926" selection-start-line="0" selection-start-column="6601" selection-end-line="0" selection-end-column="6926" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042201836" vertical-offset="712" max-vertical-offset="3285">
-          <caret line="49" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43514645" vertical-offset="2463" max-vertical-offset="3180">
+          <caret line="185" column="0" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/on-broadway/jim-campbell/glimpse-install.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/on-broadway/clay-dean/not-west-of-western-scientology.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/on-broadway/clay-dean/not-west-of-western-install.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-house.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31744185" vertical-offset="1767" max-vertical-offset="3375">
+          <caret line="136" column="48" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/the-awful-truth.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.033936653" vertical-offset="0" max-vertical-offset="900">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10151515" vertical-offset="1538" max-vertical-offset="3180">
-          <caret line="107" column="14" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
-          <folding />
+        <state vertical-scroll-proportion="-0.11758119" vertical-offset="5010" max-vertical-offset="5925">
+          <caret line="327" column="1" selection-start-line="294" selection-start-column="0" selection-end-line="327" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/on-broadway.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1592178" vertical-offset="2725" max-vertical-offset="3735">
+          <caret line="237" column="26" selection-start-line="237" selection-start-column="26" selection-end-line="237" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/on-broadway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3755523" vertical-offset="3210" max-vertical-offset="5235">
+          <caret line="231" column="0" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-painters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="747" max-vertical-offset="2400">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="83" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/artist-practice/AP_Book_Image _FB1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/artist-practice/AP_Book_Image_FB1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/artist-practice/artist-practice-book.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/put-it-together-take-it-apart/large/chris-oliveria-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/open-house/small/01-InstallationView.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/put-it-together-take-it-apart/chris-oliveria-poster.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/put-together-apart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58414465" vertical-offset="0" max-vertical-offset="719">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="330" max-vertical-offset="1305">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.88227683" vertical-offset="8" max-vertical-offset="1950">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artist-practice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7373868" vertical-offset="255" max-vertical-offset="1425">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/artist-practice.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6481481" vertical-offset="0" max-vertical-offset="810">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/put-it-together-take-it-apart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38809833" vertical-offset="315" max-vertical-offset="1425">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the-awful-truth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-80.791664" vertical-offset="161" max-vertical-offset="2955">
+          <caret line="140" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sculpture-drawing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sculpture-drawing-sculpture-drawings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4019607" vertical-offset="1278" max-vertical-offset="1890">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
