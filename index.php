@@ -10,12 +10,11 @@
 	<meta property="og:title" content="The Property" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://theproperty.gallery" />
-	<meta property="og:image" content="http://theproperty.gallery/images/sculpture-drawing/marty-schnapf.jpg" />
-	<meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA. New work by Marty Schnapf and musical performance by electronic duo Master Class, April 25th, 7 -11pm. On view April 25th - May 24th, 2015." />
+	<meta property="og:image" content="http://theproperty.gallery/errors/willem-henri-lucas-error.jpg" />
+    <meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA. 'Error', new work by Willem Henri Lucas, July 18th - August 16th, 2015. Opening reception Saturday July 25th, 2015" />
 
 
-
-	<?php require_once 'mobile_detect.php'; $detect = new Mobile_Detect; ?>
+  <?php require_once 'mobile_detect.php'; $detect = new Mobile_Detect; ?>
 	<script>
 		var isMobile = false;
 		<?php if ( $detect->isMobile() ) { ?>
@@ -47,10 +46,10 @@
 			
 			<ul id="content">
 				<li id="press-release" class="active">
-					
-					<p><i><a href="/sculpture-drawing-sculpture-drawings">Sculpture Drawing Sculpture Drawings</a></i>, new work by Los Angeles based artist <b>Marty Schnapf</b> on view April 25th - May 24th, 2015. An opening reception will take place<b> Saturday, April 25th, 7 - 11pm</b> with a musical performance by <b>Master Class</b> at 8pm.</p> 
 
-					<p>Hours: Saturday/Sunday, 11am-5pm and by appointment.</p>
+					<p>Upcoming: <i><a href="error">Error</a></i>, new work by Willem Henri Lucas on view July 16th through August 16th, 2015 with an opening reception <b>Saturday July 25th, 2015, 6-8pm.</b></p>
+
+					<p>Hours: Saturday/Sunday, 12am-5pm and by appointment.</p>
 
 					<p>The Property is an artist run exhibition space dedicated to the promotion of contemporary visual art, print and performance in and around the greater Los Angeles area. We are located at <a href="https://goo.gl/maps/WUxJp" target="_blank">440 Broadway</a> (2nd Floor)
 						in downtown Los&nbsp;Angeles. Garage parking is available at 440 Broadway, $5.50 cash&nbsp;only. </p><br/>
@@ -100,6 +99,15 @@
 				
 				<li id="exhibitions">
 					<ul class="show-list">
+						<li>
+							<a href="/sculpture-drawing-sculpture-drawings">
+								<h2>Sculpture Drawing Sculpture Drawings</h2>
+								<div class="date">Apr<span class="shorten">il</span>, 2015</div>
+								<p class="show-body">
+									<i>Sculpture Drawing Sculpture Drawings</i>, new work by Los Angeles based artist Marty Schnapf on view April 25th - May 24th, 2015.</p>
+								</p>
+							</a>
+						</li>
 						<li>
 							<a href="i-think-i-see">
 								<h2>I think I see...</h2>

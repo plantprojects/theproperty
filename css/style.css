@@ -121,7 +121,7 @@ video { width: 100%; height: auto;}
 	overflow: hidden;
 	z-index: 2;
 	cursor: pointer;
-    background: url(../images/sculpture-drawing/marty-schnapf.jpg) center no-repeat;
+    background: url(../images/error/willem-henri-lucas-error.jpg) top right no-repeat;
     background-size: cover;
 }
 #current-show.poster-1 {
@@ -316,30 +316,30 @@ video { width: 100%; height: auto;}
 	clear: both;
 	position: relative;
 }
-#footer-nav {
+#footer ul {
 	padding: 0;
 	width:  25em;/*285px;*/
 	margin: 20px auto;
 	list-style: none;
 }
-#footer-nav li {
+#footer ul li {
 	display: inline-block;
 	margin-right: 1em;
 	width: 2em;
 }
-#footer-nav li:last-child {
+#footer ul li:last-child {
 	margin-right: 0;
 }
-#footer-nav a {
+#footer ul a {
 	color: black;
 	font-size: 12px;
 	text-transform: uppercase;
 	text-decoration: none;
 }
-#footer-nav .active {
+#footer ul .active {
 	color: #f05424;
 }
-#footer-nav a:hover {
+#footer ul a:hover {
 	color: #a9dde8;
 }
 #footer .small-logo,
@@ -407,20 +407,20 @@ video { width: 100%; height: auto;}
 	.caption {
 		font-size:10px;
 	}
-	#footer-nav a {
+	#footer ul a {
 		font-size: 9px;
 	}
-	#footer-nav {
+	#footer ul {
 	    width: 9.5em;
   	}
-  	#footer-nav li {
+  	#footer ul li {
 		margin-right: .8em;
 		margin-bottom: 1em;
 		width: 1.5em;
 		line-height: .8;
 	}
-	#footer-nav li:nth-child(4),
-	#footer-nav li:last-child {
+	#footer ul li:nth-child(4),
+	#footer ul li:last-child {
 		margin-right: 0;
 	}
 	
@@ -428,5 +428,12 @@ video { width: 100%; height: auto;}
 	#footer .small-logo {
 		position: relative;
 		top: 0;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	#current-show {
+		background: url(../images/errors/small/willem-henri-lucas-errors.jpg) top right no-repeat;
+		background-size: cover;
 	}
 }
