@@ -43,10 +43,11 @@ if ( $detect->isMobile() )
 		<h1>Willem Henri Lucas: Error</h1>
 
 		<p>July 16th - August 16th, 2015</p>
-		<p>Opening Reception:  <b>Saturday July 25th, 2015, 7-10pm</b>
+		<p>Opening Reception:  <b>Saturday July 25th, 2015, 6-8pm</b>
 		</p>
 
-		<p>This series started with a collection of video stills capturing crashing planes, exploding and sinking ships, etc. that I manipulated by offsetting the RGB channels, running the images through bad quality printers and scan these images to bring them back in the computer. I was interested in having these images fall apart as much as possible. Low res pdf's were send to an online weaving company resulting in a change of the color pallet.</p>
+		<p>This series by Willem Henri Lucas started with a collection of video stills capturing crashing planes, exploding and sinking ships, etc. that he then manipulated by offsetting the RGB channels, running the images through bad quality printers and scanning these images back into the computer. He was interested in having these images fall apart as much as possible. The low res pdf's were then sent to an online weaving company resulting in a change of the color pallet.</p>
+		
         <p>Willem Henri Lucas studied at the Academy of Visual Arts in Arnhem in the Netherlands and did his post academic studies at the Sandberg institute (Rietveld Academy) in Amsterdam. From 1990 to 2002 he served as a professor and chair of the Utrecht School of the Arts' Graphic Design department. He collaborates with individuals and institutions in the field of Culture and Art. In 1998 he designed holiday postage stamps for the PTT (Dutch Post and telecom company). He won several book design awards in the Netherlands and the US. Primarily a book designer (exploring sensibility of printed matter; in material as well as content), Lucas is interested in addressing social issues and bringing design back 'to the street,' and 'humanity' back into design, encouraging future designers to be a valuable part of their communities. His body of work deals with issues of 'war' and 'love', and 'the human condition.'</p>
 	</div>
 </section>

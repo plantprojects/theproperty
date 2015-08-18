@@ -10,8 +10,8 @@
 	<meta property="og:title" content="The Property" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://theproperty.gallery" />
-	<meta property="og:image" content="http://theproperty.gallery/errors/willem-henri-lucas-error.jpg" />
-    <meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA. 'Error', new work by Willem Henri Lucas, July 18th - August 16th, 2015. Opening reception Saturday July 25th, 2015" />
+	<meta property="og:image" content="http://theproperty.gallery/images/open-house/large/01-InstallationView.jpg" />
+    <meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA." />
 
 
   <?php require_once 'mobile_detect.php'; $detect = new Mobile_Detect; ?>
@@ -47,9 +47,9 @@
 			<ul id="content">
 				<li id="press-release" class="active">
 
-					<p>Upcoming: <i><a href="error">Error</a></i>, new work by Willem Henri Lucas on view July 16th through August 16th, 2015 with an opening reception <b>Saturday July 25th, 2015, 6-8pm.</b></p>
+					<p>The gallery is currently closed and will reopen the beginning of September.</p>
 
-					<p>Hours: Saturday/Sunday, 12am-5pm and by appointment.</p>
+					<?php /*<p>Hours: Saturday/Sunday, 12am-5pm and by appointment.</p>*/?>
 
 					<p>The Property is an artist run exhibition space dedicated to the promotion of contemporary visual art, print and performance in and around the greater Los Angeles area. We are located at <a href="https://goo.gl/maps/WUxJp" target="_blank">440 Broadway</a> (2nd Floor)
 						in downtown Los&nbsp;Angeles. Garage parking is available at 440 Broadway, $5.50 cash&nbsp;only. </p><br/>
@@ -99,8 +99,24 @@
 				
 				<li id="exhibitions">
 					<ul class="show-list">
+                        <li>
+                            <a href="error">
+                                <h2>Error</h2>
+                                <div class="date">July, 2015</div>
+                                <p class="show-body">
+                                    <i>Error</i> is a series of woven photographs by Willem Henri Lucas which started as a collection of video stills
+                                    capturing crashing planes, and exploding and sinking ships that he then manipulated and degraded through multiple printing and scanning processes.</p></a>
+                        </li>
 						<li>
-							<a href="/sculpture-drawing-sculpture-drawings">
+							<a href="shield-of-the-sky">
+								<h2>Shield of the Sky</h2>
+								<div class="date">June, 2015</div>
+								<p class="show-body">
+									<i>Shield of the Sky</i> is the latest collection of work by Liz Walsh which explores sources of natural entropy and an instinct to survive. On view June 6th through July 18th, 2015</p>
+							</a>
+						</li>
+						<li>
+							<a href="sculpture-drawing-sculpture-drawings">
 								<h2>Sculpture Drawing Sculpture Drawings</h2>
 								<div class="date">Apr<span class="shorten">il</span>, 2015</div>
 								<p class="show-body">
