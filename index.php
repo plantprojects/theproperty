@@ -10,7 +10,7 @@
 	<meta property="og:title" content="The Property" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://theproperty.gallery" />
-	<meta property="og:image" content="http://theproperty.gallery/images/open-house/large/01-InstallationView.jpg" />
+	<meta property="og:image" content="http://theproperty.gallery/images/i-was-there/i-was-there.jpg" />
     <meta property="og:description" content="440 Broadway, Mezzanine, Los Angeles, CA." />
 
 
@@ -47,9 +47,14 @@
 			<ul id="content">
 				<li id="press-release" class="active">
 
-					<p>The gallery is currently closed and will reopen the beginning of September.</p>
+					<p>Upcoming: <a href="/kill-all-zombies"><i>Kill All Zombies</i></a></p>
+                    <p>In recent years, contemporary abstraction in painting has been dominated by an extreme formal reductive-ness known as Zombie Formalism or Zombie Abstraction. Zombie Abstraction has spread its anemic tendrils everywhere; creating a glut of conceptually and formally thin abstract work across all media. Slight, tasteful Zombie works that use regurgitated Modernist formats and styles have infested galleries and art fairs worldwide, overtaking the contemporary dialogue around abstraction.</p>
+                    <p>The show will include works by <b>David Gilbert</b>, <b>Lilly Aldriedge</b>, <b>John Mills</b>, <b>Cameron Crone</b>, <b>Kirk Stoller</b>, <b>John Houck</b>, <b>David Zuttermeister</b>, and <b>Julia Haft-Candell</b>.</p>
 
-					<?php /*<p>Hours: Saturday/Sunday, 12am-5pm and by appointment.</p>*/?>
+
+                    <p>Opening Reception: <b>Sunday, 10/11/15 from 4-7pm</b></p>
+
+					<p>Hours: Saturday/Sunday, 12am-5pm and by appointment.</p>
 
 					<p>The Property is an artist run exhibition space dedicated to the promotion of contemporary visual art, print and performance in and around the greater Los Angeles area. We are located at <a href="https://goo.gl/maps/WUxJp" target="_blank">440 Broadway</a> (2nd Floor)
 						in downtown Los&nbsp;Angeles. Garage parking is available at 440 Broadway, $5.50 cash&nbsp;only. </p><br/>

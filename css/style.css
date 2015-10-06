@@ -121,8 +121,8 @@ video { width: 100%; height: auto;}
 	overflow: hidden;
 	z-index: 2;
 	cursor: pointer;
-    background: url(../images/open-house/large/01-InstallationView.jpg) top right no-repeat;
-    background-size: cover;
+    background: url(../images/kill-all-zombies/zombie.gif) top center no-repeat #005C9F;
+  background-size: contain;
 }
 #current-show.poster-1 {
 	background: url(../images/i-think-i-see/Justin1.jpg) no-repeat #fff;
@@ -431,9 +431,9 @@ video { width: 100%; height: auto;}
 	}
 }
 
-@media screen and (max-width: 640px) {
+/*@media screen and (max-width: 640px) {
 	#current-show {
-		background: url(../images/open-house/small/01-InstallationView.jpg) top right no-repeat;
+		background: url(../images/i-was-there/mobile/i-was-there.jpg) center no-repeat;
 		background-size: cover;
 	}
-}
+}*/
