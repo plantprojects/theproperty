@@ -47,12 +47,16 @@
 			<ul id="content">
 				<li id="press-release" class="active">
 
-					<p>Upcoming: <a href="/kill-all-zombies"><i>Kill All Zombies</i></a></p>
+					<p>Current: <a href="/kill-all-zombies"><i>Kill All Zombies</i></a></p>
                     <p>In recent years, contemporary abstraction in painting has been dominated by an extreme formal reductive-ness known as Zombie Formalism or Zombie Abstraction. Zombie Abstraction has spread its anemic tendrils everywhere; creating a glut of conceptually and formally thin abstract work across all media. Slight, tasteful Zombie works that use regurgitated Modernist formats and styles have infested galleries and art fairs worldwide, overtaking the contemporary dialogue around abstraction.</p>
-                    <p>The show will include works by <b>David Gilbert</b>, <b>Lilly Aldriedge</b>, <b>John Mills</b>, <b>Cameron Crone</b>, <b>Kirk Stoller</b>, <b>John Houck</b>, <b>David Zuttermeister</b>, and <b>Julia Haft-Candell</b>.</p>
+                    <p>In "Kill All Zombies", the Property presents eight California-based artists who are bucking the trend and working with fertile and invigorating forms of abstraction that both engage with abstraction's history and look forward to its future.</p>
+                    <p>The show includes works by <b>David Gilbert</b>, <b>Lilly Aldriedge</b>, <b>John Mills</b>, <b>Cameron Crone</b>, <b>Kirk Stoller</b>, <b>John Houck</b>, <b>David Zuttermeister</b>, and <b>Julia Haft-Candell</b>.</p>
 
+                    <p>On view through Sunday November 15th, 2015 with extended hours <b>Friday, 10/13/15 from 12-5pm</b></p>
 
-                    <p>Opening Reception: <b>Sunday, 10/11/15 from 4-7pm</b></p>
+                    <p>Press: <a href="http://artforum.com/picks/id=55943" target="_blank">Artforum Critic's Pick</a></p>
+
+                    <br>
 
 					<p>Hours: Saturday/Sunday, 12am-5pm and by appointment.</p>
 
@@ -104,6 +108,12 @@
 				
 				<li id="exhibitions">
 					<ul class="show-list">
+                        <li>
+                            <a href="i-was-there">
+                                <h2>I Was There</h2>
+                                <div class="date">Sept<span class="shorten">ember</span>, 2015</div>
+                                <p class="show-body">Culled from an eclectic mix of artists from a variety of backgrounds including painting, photography, sculpture, and comedy, <i>I Was There</i> seeks to provide a fleeting glimpse into the immense variety of strategies utilized by contemporary artists to explore issues of identity, representation and self-location in this second, increasingly dematerialized decade of the 21st century.</p></a>
+                        </li>
                         <li>
                             <a href="error">
                                 <h2>Error</h2>

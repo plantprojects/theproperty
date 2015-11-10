@@ -1,0 +1,38 @@
+.caption {
+	font-size: 12px;
+
+}
+a {
+	color: #000;
+}
+#poster {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+#poster .caption {
+  margin: 40px 0 0 0;
+}
+#poster .pr {
+	margin: 1em auto 3em auto;
+	width: 700px;
+	line-height: 1.5;
+}
+
+#poster img {
+	width: 100%;
+	height: auto;
+}
+#documentation {
+	font-size: 1em;
+	line-height: 1.5em;
+	margin: 20px auto;
+    max-width: 1800px;
+}
+
+@media screen and (max-width: 800px) {
+	#poster .pr {
+		width: 90%;
+		font-size: .8em;
+	}
+}
